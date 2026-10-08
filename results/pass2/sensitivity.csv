@@ -1,0 +1,7 @@
+scenario,decision,label,gwp100_kg,difference_kg,difference_pct
+baseline,,Baseline (pass 2),3.269148,0,0
+scrap_cutoff,D6,Stainless scrap burden-free (cut-off),2.632488,-0.636660,-19.47
+board_biogenic,D7,Board-mill CO2 treated as biogenic,3.026965,-0.242183,-7.41
+both,D6+D7,Both changes,2.390305,-0.878843,-26.88
+method_ar5,D5,IPCC AR5 GWP100,3.269795,0.000647,0.02
+method_net_biogenic,D5,"AR6 GWP100, net biogenic",3.270783,0.001635,0.05
