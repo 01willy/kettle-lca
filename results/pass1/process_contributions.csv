@@ -1,0 +1,26 @@
+rank,process,product,geography,gwp100_kg,share_of_calculated_total
+1,Steel; stainless 304; flat rolled coil,Steel; stainless 304; flat rolled coil,Northern America,0.811585,0.2584
+2,Steel; stainless 304; scrap,Steel; stainless 304; scrap,Global,0.636660,0.2027
+3,Containerboard; at mill,Containerboard; at mill,United States of America (the),0.281895,0.0898
+4,Propylene; at plant,Propylene; at plant,United States of America (the),0.261426,0.0832
+5,Natural gas; for ethylene combusted in industrial boiler; at hydrocracker,"Natural gas; combusted in industrial boiler, for ethylene; at hydrocracker",Northern America,0.210279,0.0670
+6,"Natural gas combustion; external combustion boilers, industrial, natural gas, > 100 million Btu/hr, low NOx burners; at boiler","Natural gas combustion; external combustion boilers, industrial, natural gas, > 100 million Btu/hr, low NOx burners",United States of America (the),0.051497,0.0164
+7,"Natural gas combustion; pipeline reciprocating engine, uncontrolled; at reciprocating engine","Natural gas combustion; pipeline reciprocating engine, uncontrolled",United States of America (the),0.049878,0.0159
+8,"Electricity - COAL - Midcontinent Independent System Operator, Inc.","Electricity, AC, 2300-7650 V","Midcontinent Independent System Operator, Inc.",0.049862,0.0159
+9,"Natural gas; onshore, unconventional; at well",Natural gas; at well,United States of America (the),0.046287,0.0147
+10,"Natural gas combustion; reciprocating engine, oil and gas field, uncontrolled, pre-processing gas; at reciprocating engine","Natural gas combustion; reciprocating engine, oil and gas field, uncontrolled, pre-processing gas",United States of America (the),0.043797,0.0139
+11,"Natural gas combustion; reciprocating engine, oil and gas field, uncontrolled; at reciprocating engine","Natural gas combustion; reciprocating engine, oil and gas field, uncontrolled",United States of America (the),0.039141,0.0125
+12,"Electricity - GAS - PJM Interconnection, LLC","Electricity, AC, 2300-7650 V","PJM Interconnection, LLC",0.034436,0.0110
+13,Natural gas; at distribution,Natural gas; at distribution,United States of America (the),0.027742,0.0088
+14,"Electricity - COAL - PJM Interconnection, LLC","Electricity, AC, 2300-7650 V","PJM Interconnection, LLC",0.026428,0.0084
+15,"Electricity - GAS - Midcontinent Independent System Operator, Inc.","Electricity, AC, 2300-7650 V","Midcontinent Independent System Operator, Inc.",0.024482,0.0078
+16,"Natural gas combustion; external combustion boilers, industrial, natural gas, 10-100 million Btu/hr, low NOx burners; at boiler","Natural gas combustion; external combustion boilers, industrial, natural gas, 10-100 million Btu/hr, low NOx burners",United States of America (the),0.024188,0.0077
+17,Ethylene; at plant,Ethylene; at plant,United States of America (the),0.021474,0.0068
+18,"Electricity - GAS - Electric Reliability Council of Texas, Inc.","Electricity, AC, 2300-7650 V","Electric Reliability Council of Texas, Inc.",0.019159,0.0061
+19,Petroleum refining; at refinery,Petroleum refining coproduct; at refinery,United States of America (the),0.017832,0.0057
+20,Electricity - COAL - Southwest Power Pool,"Electricity, AC, 2300-7650 V",Southwest Power Pool,0.016033,0.0051
+21,"Electricity - COAL - Electric Reliability Council of Texas, Inc.","Electricity, AC, 2300-7650 V","Electric Reliability Council of Texas, Inc.",0.015526,0.0049
+22,Crude oil; on-shore import; at extraction,Crude oil; at extraction,United States of America (the),0.014888,0.0047
+23,"Transport, combination truck; diesel powered",Transport; combination truck; diesel powered,United States of America (the),0.014317,0.0046
+24,"Natural gas; onshore, conventional; at well",Natural gas; at well,United States of America (the),0.013395,0.0043
+25,"Natural gas; onshore, unconventional; at gathering and boosting",Natural gas; at gathering and boosting,United States of America (the),0.013240,0.0042

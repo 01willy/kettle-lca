@@ -1,0 +1,9 @@
+# Downloaded databases (large; retrieve with data/external/uslci/fetch.sh)
+data/external/**/*.zip
+data/external/**/*.log
+# Python
+__pycache__/
+*.pyc
+# Credentials and local sessions
+.env
+*.session.json

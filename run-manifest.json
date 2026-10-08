@@ -1,0 +1,142 @@
+{
+  "schema": "lca-classroom-run-v1",
+  "student_alias": "01willy",
+  "run_label": "pass1 (preliminary, before independent run)",
+  "run_date_utc": "2026-10-08",
+  "codex_model_displayed": "not used; Claude Code with claude-opus-5-5",
+  "codex_settings_known": {
+    "tool": "Claude Code (VS Code extension)",
+    "model": "claude-opus-5-5"
+  },
+  "declared_unit": "One manufactured and packaged BC1 1 L plastic electric kettle at the factory gate",
+  "included": [
+    "material supply",
+    "component manufacture",
+    "assembly",
+    "packaging"
+  ],
+  "excluded": [
+    "customer delivery",
+    "use",
+    "end of life"
+  ],
+  "manufacturing_geography": "not decided; pass 1 uses U.S. background data (USLCI)",
+  "characterization_method": {
+    "name": "IPCC (FEDEFL-mapped), category AR6-100",
+    "version": "01.04.000",
+    "time_horizon_years": 100,
+    "source_url": "https://doi.org/10.23719/1529821"
+  },
+  "database_releases": [
+    {
+      "name": "Federal LCA Commons, Commons Merged",
+      "release": "Commons Merged repository commit 4a8936c4f699b98c5dd5e75757a726de4adc4150",
+      "sha256": "ae9590f473fc7466a5167dfcbbb6e500a8bb939819f7eab9aaf86a68b411ee22"
+    }
+  ],
+  "assumptions": {
+    "yield_and_losses": "PP: 1.034 kg resin per kg part from the USLCI molding dataset; other materials: losses not applied (pending).",
+    "manufacturing_energy": "PP injection molding dataset for PP; PP molding conversion as proxy for ABS, nylon, POM, PC; generic extrusion for PVC and LDPE foil; metal forming, silicone molding and assembly electricity pending.",
+    "allocation": "Default allocation factors stored in each multi-output dataset; processes without factors keep the burden on the reference product.",
+    "recycling": "Stainless steel scrap input follows the dataset's 'value of scrap' burden; flows without providers (e.g. old corrugated containers) enter burden-free.",
+    "other": "Biogenic CO2 excluded (AR6-100); AR6-100 Net Biogenic reported as an alternative."
+  },
+  "mapping_table": "mapping-decisions.csv",
+  "prompts_record": "prompts_and_runs.md",
+  "reproduction_command": "python scripts/run_pass1.py && python scripts/render_pass1_figures.py",
+  "results": {
+    "status": "partial: pending items are not calculated and are not zero",
+    "ghg_kg_co2e_per_packaged_kettle": null,
+    "ghg_kg_co2e_calculated_items_only": 3.1403,
+    "contributions": [
+      {
+        "item": "M01 Stainless steel material",
+        "kg_co2e": 1.44824
+      },
+      {
+        "item": "M02 Polypropylene (PP) material",
+        "kg_co2e": 0.74473
+      },
+      {
+        "item": "M03 Polyvinyl chloride (PVC) material",
+        "kg_co2e": 0.09194
+      },
+      {
+        "item": "M04 Acrylonitrile-butadiene-styrene (ABS) material",
+        "kg_co2e": 0.09352
+      },
+      {
+        "item": "M05 LDPE packaging foil material",
+        "kg_co2e": 0.01491
+      },
+      {
+        "item": "M06 Cardboard packaging material",
+        "kg_co2e": 0.28078
+      },
+      {
+        "item": "C01 Polypropylene (PP) conversion",
+        "kg_co2e": 0.35809
+      },
+      {
+        "item": "C02 Acrylonitrile-butadiene-styrene (ABS) conversion",
+        "kg_co2e": 0.03067
+      },
+      {
+        "item": "C03 Nylon, grade unspecified conversion",
+        "kg_co2e": 0.05061
+      },
+      {
+        "item": "C04 Polyoxymethylene (POM) conversion",
+        "kg_co2e": 0.00997
+      },
+      {
+        "item": "C05 Polycarbonate (PC) conversion",
+        "kg_co2e": 0.0069
+      },
+      {
+        "item": "C06 Polyvinyl chloride (PVC) conversion",
+        "kg_co2e": 0.00864
+      },
+      {
+        "item": "C07 LDPE packaging foil conversion",
+        "kg_co2e": 0.00125
+      }
+    ],
+    "missing_inputs": [
+      "M07 Brass (material)",
+      "M08 Copper (material)",
+      "M09 Nylon, grade unspecified (material)",
+      "M10 Polyoxymethylene (POM) (material)",
+      "M11 Polycarbonate (PC) (material)",
+      "M12 Silicone (material)",
+      "C08 Stainless steel (conversion)",
+      "C09 Brass and copper (conversion)",
+      "C10 Silicone (conversion)",
+      "A01 Assembly (assembly)",
+      "T01 Inbound transport (transport)"
+    ],
+    "unresolved_providers": "results/pass1/unresolved_links.csv",
+    "uncharacterized_flows": "not yet checked"
+  },
+  "uncertainty": {
+    "performed": false,
+    "distributions": [],
+    "correlations": "",
+    "seed": null,
+    "draws": null,
+    "p05_kg_co2e": null,
+    "p95_kg_co2e": null
+  },
+  "checks": {
+    "units": "Exchange amounts converted to flow reference units via unit groups and flow property factors.",
+    "balances": "BOM 723.00 g + 137.80 g = 860.80 g (pass).",
+    "contribution_sum": "Sum of item results equals joint matrix solution (pass).",
+    "double_counting": "PP resin and PP molding separated (molding minus resin input)."
+  },
+  "revision": {
+    "prior_commit_sha": null,
+    "one_choice_changed": "",
+    "predicted_effect": "",
+    "observed_effect": ""
+  }
+}

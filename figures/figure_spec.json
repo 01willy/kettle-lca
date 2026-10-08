@@ -1,0 +1,54 @@
+{
+  "target_medium": "GitHub README (web), body width about 900 px; PNG 200 dpi and SVG with editable text",
+  "style": {
+    "font": "NanumBarunGothic",
+    "font_size_pt": {
+      "title": 12,
+      "axis_label": 10,
+      "tick": 9,
+      "annotation": 8.5
+    },
+    "colors": {
+      "material": "#1f4e79",
+      "conversion": "#7fa7cf",
+      "pending": "#b0b0b0",
+      "text": "#222222",
+      "grid": "#e5e5e5",
+      "mass": "#5f5f5f"
+    },
+    "rule": "Status is shown by text labels as well as color; pending items have no bar and are labelled as not calculated.",
+    "font_files": [
+      "/usr/share/fonts/truetype/nanum/NanumBarunGothic.ttf",
+      "/usr/share/fonts/truetype/nanum/NanumBarunGothicBold.ttf"
+    ]
+  },
+  "figures": [
+    {
+      "id": "fig1_item_contribution",
+      "message": "Stainless steel and polypropylene account for most of the calculated GWP100; six materials remain uncalculated.",
+      "data": "results/pass1/contributions.csv",
+      "layout": "Two aligned horizontal-bar panels sharing the BOM item rows. Left: finished mass (g). Right: GWP100 (kg CO2-eq per kettle), stacked material plus conversion. Rows sorted by GWP100; pending rows at the bottom.",
+      "units": {
+        "left": "g per kettle",
+        "right": "kg CO2-eq per kettle"
+      },
+      "exports": [
+        "figures/pass1/fig1_item_contribution.svg",
+        "figures/pass1/fig1_item_contribution.png"
+      ]
+    },
+    {
+      "id": "fig2_process_drivers",
+      "message": "Direct emissions of the stainless steel datasets (including the value-of-scrap burden) and of containerboard and olefin production drive the calculated result.",
+      "data": "results/pass1/process_contributions.csv",
+      "layout": "Single horizontal-bar panel, top 10 supply-chain processes by direct GWP100, value labels in kg CO2-eq and share of the calculated total.",
+      "units": {
+        "x": "kg CO2-eq per kettle"
+      },
+      "exports": [
+        "figures/pass1/fig2_process_drivers.svg",
+        "figures/pass1/fig2_process_drivers.png"
+      ]
+    }
+  ]
+}

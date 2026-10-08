@@ -1,0 +1,67 @@
+{
+  "schema": "lca-classroom-run-v1",
+  "student_alias": "",
+  "run_label": "independent",
+  "run_date_utc": "",
+  "codex_model_displayed": "",
+  "codex_settings_known": {},
+  "declared_unit": "One manufactured and packaged BC1 1 L plastic electric kettle at the factory gate",
+  "included": [
+    "material supply",
+    "component manufacture",
+    "assembly",
+    "packaging"
+  ],
+  "excluded": [
+    "customer delivery",
+    "use",
+    "end of life"
+  ],
+  "manufacturing_geography": "",
+  "characterization_method": {
+    "name": "",
+    "version": "",
+    "time_horizon_years": 100,
+    "source_url": ""
+  },
+  "database_releases": [],
+  "assumptions": {
+    "yield_and_losses": "",
+    "manufacturing_energy": "",
+    "allocation": "",
+    "recycling": "",
+    "other": ""
+  },
+  "mapping_table": "mapping-decisions.csv",
+  "prompts_record": "prompts_and_runs.md",
+  "reproduction_command": "",
+  "results": {
+    "status": "",
+    "ghg_kg_co2e_per_packaged_kettle": null,
+    "contributions": [],
+    "missing_inputs": [],
+    "unresolved_providers": [],
+    "uncharacterized_flows": []
+  },
+  "uncertainty": {
+    "performed": false,
+    "distributions": [],
+    "correlations": "",
+    "seed": null,
+    "draws": null,
+    "p05_kg_co2e": null,
+    "p95_kg_co2e": null
+  },
+  "checks": {
+    "units": "",
+    "balances": "",
+    "contribution_sum": "",
+    "double_counting": ""
+  },
+  "revision": {
+    "prior_commit_sha": null,
+    "one_choice_changed": "",
+    "predicted_effect": "",
+    "observed_effect": ""
+  }
+}

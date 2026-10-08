@@ -1,0 +1,52 @@
+{
+  "run": "pass1",
+  "status": "partial: pending items are not calculated and are not zero",
+  "declared_unit": "One manufactured and packaged BC1 1 L plastic electric kettle at the factory gate",
+  "database": {
+    "name": "Federal LCA Commons, Commons Merged (includes USLCI)",
+    "api_token": "repository_Federal_LCA_Commons@commons_merged@4a8936c4f699b98c5dd5e75757a726de4adc4150",
+    "file": "data/external/uslci/commons_merged_jsonld.zip",
+    "sha256": "ae9590f473fc7466a5167dfcbbb6e500a8bb939819f7eab9aaf86a68b411ee22"
+  },
+  "method": {
+    "name": "IPCC",
+    "category": "AR6-100",
+    "alternative_category": "AR6-100 Net Biogenic",
+    "unit": "kg CO2 eq"
+  },
+  "gwp100_calculated_items_kg": 3.140263642913809,
+  "gwp100_net_biogenic_calculated_items_kg": 3.141898443522828,
+  "pending_items": [
+    "M07 Brass (material)",
+    "M08 Copper (material)",
+    "M09 Nylon, grade unspecified (material)",
+    "M10 Polyoxymethylene (POM) (material)",
+    "M11 Polycarbonate (PC) (material)",
+    "M12 Silicone (material)",
+    "C08 Stainless steel (conversion)",
+    "C09 Brass and copper (conversion)",
+    "C10 Silicone (conversion)",
+    "A01 Assembly (assembly)",
+    "T01 Inbound transport (transport)"
+  ],
+  "checks": {
+    "bom_mass_g": {
+      "kettle": 723.0,
+      "packaging": 137.8,
+      "expected": [
+        723.0,
+        137.8
+      ],
+      "pass": true
+    },
+    "contribution_sum_kg": {
+      "sum_of_items": 3.140263642913809,
+      "joint_matrix_solution": 3.140263643060176,
+      "pass": true
+    },
+    "material_mass_covered_g": 747.55,
+    "material_mass_share_covered": 0.8684,
+    "unresolved_exchanges_in_package": 4178,
+    "multi_output_columns": 218
+  }
+}

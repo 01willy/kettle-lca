@@ -1,0 +1,25 @@
+item_id,bom_material,stage,amount,unit,basis,database,dataset_name,status,note
+M01,Stainless steel,material,0.186,kg,BOM finished mass,USLCI (Commons Merged),Steel; stainless 304; flat rolled coil,sourced,Grade 304 assumed; forming loss not applied
+M02,Polypropylene (PP),material,0.3621585,kg,0.35025 kg part x 1.034 kg resin/kg part (USLCI molding dataset),USLCI (Commons Merged),"Polypropylene, PP; virgin resin; at plant",sourced,Resin input taken from the USLCI injection molding dataset
+M03,Polyvinyl chloride (PVC),material,0.0435,kg,BOM finished mass,USLCI (Commons Merged),"Polyvinyl chloride resin, PVC; suspension grade; at plant",sourced,Loss not applied
+M04,Acrylonitrile-butadiene-styrene (ABS),material,0.030,kg,BOM finished mass,USLCI (Commons Merged),"Acrylonitrile-butadiene-styrene, ABS; copolymer resin; at plant",sourced,Loss not applied
+M05,LDPE packaging foil,material,0.0063,kg,BOM finished mass,USLCI (Commons Merged),"Low-density polyethylene, LDPE; virgin resin; at plant",sourced,Loss not applied
+M06,Cardboard packaging,material,0.1315,kg,BOM finished mass,USLCI (Commons Merged),Corrugated product; average production; at mill,sourced,Loss not applied
+M07,Brass,material,0.02025,kg,BOM finished mass,TianGong,,pending,No physical brass dataset in USLCI; TianGong search requires login
+M08,Copper,material,0.015,kg,BOM finished mass,TianGong,,pending,USLCI has only a USEEIO monetary bridge
+M09,"Nylon, grade unspecified",material,0.0495,kg,BOM finished mass,TianGong,,pending,Grade (PA6 or PA66) not decided; USLCI has only USEEIO bridges
+M10,Polyoxymethylene (POM),material,0.00975,kg,BOM finished mass,TianGong,,pending,No POM dataset in USLCI
+M11,Polycarbonate (PC),material,0.00675,kg,BOM finished mass,TianGong,,pending,USLCI has only a USEEIO monetary bridge
+M12,Silicone,material,0.012,kg,BOM finished mass,TianGong,,pending,No silicone dataset in USLCI
+C01,Polypropylene (PP),conversion,0.35025,kg,BOM finished mass of PP parts,USLCI (Commons Merged),Injection molding; rigid polypropylene part; at plant (excluding resin input),sourced,Molding energy and auxiliaries; resin reported under M02
+C02,Acrylonitrile-butadiene-styrene (ABS),conversion,0.030,kg,BOM finished mass,USLCI (Commons Merged),Injection molding; rigid polypropylene part; at plant (excluding resin input),proxy,PP injection molding used as proxy for ABS molding
+C03,"Nylon, grade unspecified",conversion,0.0495,kg,BOM finished mass,USLCI (Commons Merged),Injection molding; rigid polypropylene part; at plant (excluding resin input),proxy,PP injection molding used as proxy
+C04,Polyoxymethylene (POM),conversion,0.00975,kg,BOM finished mass,USLCI (Commons Merged),Injection molding; rigid polypropylene part; at plant (excluding resin input),proxy,PP injection molding used as proxy
+C05,Polycarbonate (PC),conversion,0.00675,kg,BOM finished mass,USLCI (Commons Merged),Injection molding; rigid polypropylene part; at plant (excluding resin input),proxy,PP injection molding used as proxy
+C06,Polyvinyl chloride (PVC),conversion,0.0435,kg,BOM finished mass,USLCI (Commons Merged),Extrusion; at plant,assumed,PVC assumed to be extruded (cable insulation); component type not stated in BOM
+C07,LDPE packaging foil,conversion,0.0063,kg,BOM finished mass,USLCI (Commons Merged),Extrusion; at plant,sourced,Film extrusion represented by generic plastic extrusion
+C08,Stainless steel,conversion,0.186,kg,BOM finished mass,,,pending,Sheet forming (deep drawing) dataset not selected
+C09,Brass and copper,conversion,0.03525,kg,BOM finished mass,,,pending,Wire drawing and stamping not selected
+C10,Silicone,conversion,0.012,kg,BOM finished mass,,,pending,Silicone molding not selected
+A01,Assembly,assembly,,kWh,not in BOM,,,pending,Factory assembly electricity not specified in BOM; decision pending
+T01,Inbound transport,transport,,t*km,not in BOM,,,pending,Transport from material suppliers to the kettle factory; decision pending

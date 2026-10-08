@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="648pt" height="331.2pt" viewBox="0 0 648 331.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-08T15:08:43.867724</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.8.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 331.2 
+L 648 331.2 
+L 648 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 233.28 288.144 
+L 628.56 288.144 
+L 628.56 52.992 
+L 233.28 52.992 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 233.28 288.144 
+L 233.28 52.992 
+" clip-path="url(#p9442cbe114)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m349b441bc5" d="M 0 0 
+L 0 3.5 
+" style="stroke: #222222; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m349b441bc5" x="233.28" y="288.144" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: middle" x="233.28" y="302.137281" transform="rotate(-0 233.28 302.137281)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 311.207512 288.144 
+L 311.207512 52.992 
+" clip-path="url(#p9442cbe114)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m349b441bc5" x="311.207512" y="288.144" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: middle" x="311.207512" y="302.137281" transform="rotate(-0 311.207512 302.137281)">0.2</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 389.135024 288.144 
+L 389.135024 52.992 
+" clip-path="url(#p9442cbe114)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m349b441bc5" x="389.135024" y="288.144" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: middle" x="389.135024" y="302.137281" transform="rotate(-0 389.135024 302.137281)">0.4</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 467.062537 288.144 
+L 467.062537 52.992 
+" clip-path="url(#p9442cbe114)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m349b441bc5" x="467.062537" y="288.144" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: middle" x="467.062537" y="302.137281" transform="rotate(-0 467.062537 302.137281)">0.6</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 544.990049 288.144 
+L 544.990049 52.992 
+" clip-path="url(#p9442cbe114)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m349b441bc5" x="544.990049" y="288.144" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: middle" x="544.990049" y="302.137281" transform="rotate(-0 544.990049 302.137281)">0.8</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 622.917561 288.144 
+L 622.917561 52.992 
+" clip-path="url(#p9442cbe114)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m349b441bc5" x="622.917561" y="288.144" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: middle" x="622.917561" y="302.137281" transform="rotate(-0 622.917561 302.137281)">1.0</text>
+     </g>
+    </g>
+    <g id="text_7">
+     <!-- 공정 직접 배출의 GWP100 (kg CO$_2$-eq/대) -->
+     <g transform="translate(339.27 316.665719)">
+      <text>
+       <tspan style="font: 10px 'NanumBarunGothic'" x="0 8.919983 17.839966 20.079956 28.999939 37.919922 40.159912 49.079895 57.999878 66.919861 69.159851 76.259842 85.869827 91.729813 97.559799 103.389786 109.219772 111.459763 115.919754 121.219742 127.099731 129.339722 135.729706 148.072449 153.902435 159.492416 165.372406 169.832397 178.75238" y="-0.078125">공정 직접 배출의 GWP100 (kg CO-eq/대)</tspan>
+       <tspan style="font: 7px 'DejaVu Sans'" x="143.345398" y="1.5625">2</tspan>
+      </text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_13">
+      <defs>
+       <path id="mdf5190bb1e" d="M 0 0 
+L -3.5 0 
+" style="stroke: #222222; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mdf5190bb1e" x="233.28" y="270.566488" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: end" x="226.28" y="273.920004" transform="rotate(-0 226.28 273.920004)">Natural gas engine, oil and gas field</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#mdf5190bb1e" x="233.28" y="248.344602" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: end" x="226.28" y="251.646985" transform="rotate(-0 226.28 251.646985)">Natural gas extraction, onshore unconventional</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#mdf5190bb1e" x="233.28" y="226.122716" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: end" x="226.28" y="229.425098" transform="rotate(-0 226.28 229.425098)">Coal power, MISO grid region</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#mdf5190bb1e" x="233.28" y="203.900829" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: end" x="226.28" y="207.203212" transform="rotate(-0 226.28 207.203212)">Natural gas pipeline compressor engine</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#mdf5190bb1e" x="233.28" y="181.678943" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: end" x="226.28" y="185.015193" transform="rotate(-0 226.28 185.015193)">Natural gas industrial boiler, large (100+ MMBtu/h)</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#mdf5190bb1e" x="233.28" y="159.457057" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: end" x="226.28" y="162.75944" transform="rotate(-0 226.28 162.75944)">Natural gas boiler at ethylene cracker</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#mdf5190bb1e" x="233.28" y="137.235171" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: end" x="226.28" y="140.537553" transform="rotate(-0 226.28 140.537553)">Propylene production</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#mdf5190bb1e" x="233.28" y="115.013284" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: end" x="226.28" y="118.315667" transform="rotate(-0 226.28 118.315667)">Containerboard mill</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#mdf5190bb1e" x="233.28" y="92.791398" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: end" x="226.28" y="96.187414" transform="rotate(-0 226.28 96.187414)">Stainless 304 scrap input ('value of scrap')</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#mdf5190bb1e" x="233.28" y="70.569512" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: end" x="226.28" y="73.901778" transform="rotate(-0 226.28 73.901778)">Stainless 304 coil production (direct)</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 233.28 277.455273 
+L 250.344956 277.455273 
+L 250.344956 263.677703 
+L 233.28 263.677703 
+z
+" clip-path="url(#p9442cbe114)" style="fill: #1f4e79"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 233.28 255.233387 
+L 251.315154 255.233387 
+L 251.315154 241.455817 
+L 233.28 241.455817 
+z
+" clip-path="url(#p9442cbe114)" style="fill: #1f4e79"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 233.28 233.0115 
+L 252.708108 233.0115 
+L 252.708108 219.233931 
+L 233.28 219.233931 
+z
+" clip-path="url(#p9442cbe114)" style="fill: #1f4e79"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 233.28 210.789614 
+L 252.714342 210.789614 
+L 252.714342 197.012045 
+L 233.28 197.012045 
+z
+" clip-path="url(#p9442cbe114)" style="fill: #1f4e79"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 233.28 188.567728 
+L 253.345165 188.567728 
+L 253.345165 174.790158 
+L 233.28 174.790158 
+z
+" clip-path="url(#p9442cbe114)" style="fill: #1f4e79"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 233.28 166.345842 
+L 315.212597 166.345842 
+L 315.212597 152.568272 
+L 233.28 152.568272 
+z
+" clip-path="url(#p9442cbe114)" style="fill: #1f4e79"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 233.28 144.123955 
+L 335.141389 144.123955 
+L 335.141389 130.346386 
+L 233.28 130.346386 
+z
+" clip-path="url(#p9442cbe114)" style="fill: #1f4e79"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 233.28 121.902069 
+L 343.11688 121.902069 
+L 343.11688 108.1245 
+L 233.28 108.1245 
+z
+" clip-path="url(#p9442cbe114)" style="fill: #1f4e79"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 233.28 99.680183 
+L 481.34665 99.680183 
+L 481.34665 85.902613 
+L 233.28 85.902613 
+z
+" clip-path="url(#p9442cbe114)" style="fill: #1f4e79"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 233.28 77.458297 
+L 549.504 77.458297 
+L 549.504 63.680727 
+L 233.28 63.680727 
+z
+" clip-path="url(#p9442cbe114)" style="fill: #1f4e79"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 233.28 288.144 
+L 233.28 52.992 
+" style="fill: none; stroke: #666666; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 233.28 288.144 
+L 628.56 288.144 
+" style="fill: none; stroke: #666666; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_18">
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: start" x="255.020607" y="272.674886" transform="rotate(-0 255.020607 272.674886)">0.044 (1.4%)</text>
+   </g>
+   <g id="text_19">
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: start" x="255.990805" y="250.453" transform="rotate(-0 255.990805 250.453)">0.046 (1.5%)</text>
+   </g>
+   <g id="text_20">
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: start" x="257.383759" y="228.231114" transform="rotate(-0 257.383759 228.231114)">0.050 (1.6%)</text>
+   </g>
+   <g id="text_21">
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: start" x="257.389993" y="206.009228" transform="rotate(-0 257.389993 206.009228)">0.050 (1.6%)</text>
+   </g>
+   <g id="text_22">
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: start" x="258.020816" y="183.787342" transform="rotate(-0 258.020816 183.787342)">0.051 (1.6%)</text>
+   </g>
+   <g id="text_23">
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: start" x="319.888247" y="161.565455" transform="rotate(-0 319.888247 161.565455)">0.210 (6.7%)</text>
+   </g>
+   <g id="text_24">
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: start" x="339.81704" y="139.343569" transform="rotate(-0 339.81704 139.343569)">0.261 (8.3%)</text>
+   </g>
+   <g id="text_25">
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: start" x="347.792531" y="117.121683" transform="rotate(-0 347.792531 117.121683)">0.282 (9.0%)</text>
+   </g>
+   <g id="text_26">
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: start" x="486.0223" y="94.899797" transform="rotate(-0 486.0223 94.899797)">0.637 (20.3%)</text>
+   </g>
+   <g id="text_27">
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: start" x="554.179651" y="72.67791" transform="rotate(-0 554.179651 72.67791)">0.812 (25.8%)</text>
+   </g>
+  </g>
+  <g id="text_28">
+   <text style="font: 700 12px 'NanumBarunGothic'; text-anchor: start" x="12.96" y="16.019625" transform="rotate(-0 12.96 16.019625)">공급망 공정별 직접 배출 상위 10개 (1차 계산)</text>
+  </g>
+  <g id="text_29">
+   <!-- 괄호 안은 계산된 항목 합계 3.14 kg CO$_2$-eq/대에 대한 비율이다 -->
+   <g style="fill: #444444" transform="translate(12.96 33.12)">
+    <text>
+     <tspan style="font: 8.5px 'NanumBarunGothic'" x="0 7.582001 15.164001 17.067993 24.649994 32.231995 34.135986 41.717987 49.299988 56.881989 58.78598 66.367981 73.949982 75.853973 83.435974 91.017975 92.921967 97.877472 100.401962 105.357468 110.312973 112.216965 116.72197 121.719971 123.623962 129.055466 139.547332 144.502838 149.254333 154.252334 158.043334 165.625335 173.207336 175.111328 182.693328 190.275329 192.179321 199.761321 207.343322 214.925323" y="-0.296875">괄호 안은 계산된 항목 합계 3.14 kg CO-eq/대에 대한 비율이다</tspan>
+     <tspan style="font: 5.95px 'DejaVu Sans'" x="135.528948" y="1.0999999999999996">2</tspan>
+    </text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p9442cbe114">
+   <rect x="233.28" y="52.992" width="395.28" height="235.152"/>
+  </clipPath>
+ </defs>
+</svg>
