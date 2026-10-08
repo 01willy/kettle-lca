@@ -1,0 +1,26 @@
+item_id,bom_material,stage,amount,unit,status,gwp100_kg,gwp100_net_biogenic_kg,dataset_name,dataset_id,dataset_version,geography
+M01,Stainless steel,material,0.186,kg,sourced,1.4482448087971007,1.4482448087971007,Steel; stainless 304; flat rolled coil,49f5324b-fc33-36e9-b5af-3c80d73492bd,00.01.014,Northern America
+M02,Polypropylene (PP),material,0.3621585,kg,sourced,0.7447279204000441,0.7444295515941666,"Polypropylene, PP; virgin resin; at plant",2e8facf6-46aa-4ddb-95de-a4e2a00eb2bb,00.01.012,Northern America
+M03,Polyvinyl chloride (PVC),material,0.0435,kg,sourced,0.0919442549320051,0.09196362561112187,"Polyvinyl chloride resin, PVC; suspension grade; at plant",3dbccdda-2014-4239-ad1f-4e15c034942b,00.01.015,United States of America (the)
+M04,Acrylonitrile-butadiene-styrene (ABS),material,0.030,kg,sourced,0.0935203001586729,0.09348667271347114,"Acrylonitrile-butadiene-styrene, ABS; copolymer resin; at plant",0e42a306-ee2d-362e-8bc3-580000096459,00.01.010,Northern America
+M05,LDPE packaging foil,material,0.0063,kg,sourced,0.014907561057634463,0.01490539736693132,"Low-density polyethylene, LDPE; virgin resin; at plant",6a12cba1-889d-4515-90f8-89feb8d662f2,00.01.012,Northern America
+M06,Cardboard packaging,material,0.1315,kg,sourced,0.28078411152411414,0.28103917269966505,Corrugated product; average production; at mill,226ed3c2-e020-4c95-b1fc-4559fc2d18ac,00.01.008,United States of America (the)
+M07,Brass,material,0.02025,kg,hybrid (zinc not calculated),0.064402,,"TianGong: brass plate and strip H62 (CN-JX, 2023) + TianGong copper + USLCI zinc + TianGong CN grid",6bf04663-ad5b-4897-bc56-c3fce1e2ad9d,01.01.000,CN
+M08,Copper,material,0.015,kg,sourced,0.064482,,"TianGong: primary copper production (CN, 2019)",affec622-8421-4bf1-8abf-3b38a85e24da,01.01.000,CN
+M09,"Nylon, grade unspecified",material,0.0495,kg,pending,,,,,,
+M10,Polyoxymethylene (POM),material,0.00975,kg,pending,,,,,,
+M11,Polycarbonate (PC),material,0.00675,kg,pending,,,,,,
+M12,Silicone,material,0.012,kg,pending,,,,,,
+C01,Polypropylene (PP),conversion,0.35025,kg,sourced,0.3580925627612123,0.359422554191623,Injection molding; rigid polypropylene part; at plant (excluding resin input),89a2b59a-1ca2-34f5-acc8-a8eaaa6fa870,00.00.022,United States of America (the)
+C02,Acrylonitrile-butadiene-styrene (ABS),conversion,0.030,kg,proxy,0.030671739851036932,0.030785657746575296,Injection molding; rigid polypropylene part; at plant (excluding resin input),89a2b59a-1ca2-34f5-acc8-a8eaaa6fa870,00.00.022,United States of America (the)
+C03,"Nylon, grade unspecified",conversion,0.0495,kg,proxy,0.05060837075396978,0.05079633528160812,Injection molding; rigid polypropylene part; at plant (excluding resin input),89a2b59a-1ca2-34f5-acc8-a8eaaa6fa870,00.00.022,United States of America (the)
+C04,Polyoxymethylene (POM),conversion,0.00975,kg,proxy,0.009968315451579966,0.010005338767629946,Injection molding; rigid polypropylene part; at plant (excluding resin input),89a2b59a-1ca2-34f5-acc8-a8eaaa6fa870,00.00.022,United States of America (the)
+C05,Polycarbonate (PC),conversion,0.00675,kg,proxy,0.00690114146646624,0.0069267729929623776,Injection molding; rigid polypropylene part; at plant (excluding resin input),89a2b59a-1ca2-34f5-acc8-a8eaaa6fa870,00.00.022,United States of America (the)
+C06,Polyvinyl chloride (PVC),conversion,0.0435,kg,assumed,0.008641087863307039,0.00864108786330641,Extrusion; at plant,e2f66950-9bfb-4413-8ec7-7eb99afc268c,00.00.012,United States of America (the)
+C07,LDPE packaging foil,conversion,0.0063,kg,sourced,0.0012514678966652271,0.0012514678966655643,Extrusion; at plant,e2f66950-9bfb-4413-8ec7-7eb99afc268c,00.00.012,United States of America (the)
+C08,Stainless steel,conversion,0.186,kg,pending,,,,,,
+C09,Brass and copper,conversion,0.03525,kg,pending,,,,,,
+C10,Silicone,conversion,0.012,kg,pending,,,,,,
+C11,Cardboard packaging,conversion,0.1315,kg,pending,,,,,,
+A01,Assembly,assembly,,kWh,pending,,,,,,
+T01,Inbound transport,transport,,t*km,pending,,,,,,

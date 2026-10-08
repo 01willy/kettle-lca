@@ -7,3 +7,5 @@ __pycache__/
 # Credentials and local sessions
 .env
 *.session.json
+data/external/tiangong/
+data/derived/tiangong/search/

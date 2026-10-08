@@ -1,0 +1,52 @@
+{
+  "run": "pass2",
+  "status": "partial: nylon, POM, PC, silicone and several conversion steps not calculated (not zero)",
+  "gwp100_calculated_items_kg": 3.2691476429138087,
+  "material_mass_covered_g": 782.8,
+  "material_mass_share_covered": 0.9094,
+  "tiangong": {
+    "copper_kgco2e_per_kg": 4.298807,
+    "brass_kgco2e_per_kg": 3.180332016825284,
+    "brass_breakdown_per_kg": {
+      "plant direct emissions (TianGong)": 0.05609121378666667,
+      "cathode copper (TianGong)": 2.413929155809333,
+      "zinc: not calculated (USLCI dataset gives an implausible 0.003 kg CO2-eq/kg)": 0.0,
+      "electricity, China grid (TianGong)": 0.710311647229285,
+      "recycled copper (cut-off)": 0.0
+    },
+    "china_grid_kgco2e_per_kwh": 0.568396722,
+    "brass_inputs_per_kg": {
+      "cathode copper": 0.5615346666666666,
+      "zinc": 0.34946133333333335,
+      "recycled copper": 0.10418666666666666,
+      "electricity_kwh": 1.2496758333333333
+    },
+    "uslci_zinc_kgco2e_per_kg": 0.003135990545903988,
+    "datasets": {
+      "copper": [
+        "affec622-8421-4bf1-8abf-3b38a85e24da",
+        "01.01.000"
+      ],
+      "brass": [
+        "6bf04663-ad5b-4897-bc56-c3fce1e2ad9d",
+        "01.01.000"
+      ],
+      "grid": [
+        "f697c94d-80ff-4043-abf3-77156e5a4b8e",
+        "01.01.012"
+      ]
+    }
+  },
+  "pending_items": [
+    "M09 Nylon, grade unspecified (material)",
+    "M10 Polyoxymethylene (POM) (material)",
+    "M11 Polycarbonate (PC) (material)",
+    "M12 Silicone (material)",
+    "C08 Stainless steel (conversion)",
+    "C09 Brass and copper (conversion)",
+    "C10 Silicone (conversion)",
+    "C11 Cardboard packaging (conversion)",
+    "A01 Assembly (assembly)",
+    "T01 Inbound transport (transport)"
+  ]
+}

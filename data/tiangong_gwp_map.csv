@@ -1,0 +1,9 @@
+tiangong_flow_name,gwp100_ar6,fedefl_equivalent,note
+carbon dioxide (fossil),1.0,Carbon dioxide,IPCC AR6-100 as in the Commons Merged IPCC method
+carbon dioxide (biogenic),0.0,"Carbon dioxide, biogenic",AR6-100 category sets biogenic CO2 to 0
+methane (fossil),29.8,Methane,IPCC AR6-100
+methane (biogenic),27.0,"Methane, biogenic",IPCC AR6-100
+methane,29.8,Methane,unspecified methane treated as fossil
+nitrous oxide,273.0,Nitrous oxide,IPCC AR6-100
+dinitrogen monoxide,273.0,Nitrous oxide,IPCC AR6-100
+sulfur hexafluoride,25200.0,Sulfur hexafluoride,IPCC AR6-100
