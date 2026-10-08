@@ -53,7 +53,7 @@ def main():
     header = next(csv.reader(open(ROOT / "docs/course/mapping-decisions.template.csv", encoding="utf-8")))
     out = []
     for r in fm:
-        if not r["item_id"].startswith(("M", "C")) or r["item_id"] in ("C08", "C09", "C10"):
+        if not r["item_id"].startswith(("M", "C")) or r["item_id"] in ("C08", "C09", "C10", "C11"):
             continue
         row = dict.fromkeys(header, "")
         row.update(foreground_input=f"{r['item_id']} {r['bom_material']} ({r['stage']})", quantity=r["amount"],

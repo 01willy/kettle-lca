@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-10-08T15:08:43.349722</dc:date>
+    <dc:date>2026-10-08T15:16:36.738383</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -42,210 +42,210 @@ z
      <g id="line2d_1">
       <path d="M 306.157013 346.032 
 L 306.157013 54.432 
-" clip-path="url(#p4c3056dfca)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#p2cdf9bc54c)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_2">
       <defs>
-       <path id="md272abf438" d="M 0 0 
+       <path id="m76ff742ea1" d="M 0 0 
 L 0 3.5 
 " style="stroke: #222222; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#md272abf438" x="306.157013" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+       <use xlink:href="#m76ff742ea1" x="306.157013" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_1">
-      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: middle" x="306.157013" y="360.025281" transform="rotate(-0 306.157013 360.025281)">0</text>
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: middle" x="306.157013" y="360.025281" transform="rotate(-0 306.157013 360.025281)">0</text>
      </g>
     </g>
     <g id="xtick_2">
      <g id="line2d_3">
       <path d="M 259.491057 346.032 
 L 259.491057 54.432 
-" clip-path="url(#p4c3056dfca)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#p2cdf9bc54c)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_4">
       <g>
-       <use xlink:href="#md272abf438" x="259.491057" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+       <use xlink:href="#m76ff742ea1" x="259.491057" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
-      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: middle" x="259.491057" y="360.025281" transform="rotate(-0 259.491057 360.025281)">100</text>
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: middle" x="259.491057" y="360.025281" transform="rotate(-0 259.491057 360.025281)">100</text>
      </g>
     </g>
     <g id="xtick_3">
      <g id="line2d_5">
       <path d="M 212.825102 346.032 
 L 212.825102 54.432 
-" clip-path="url(#p4c3056dfca)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#p2cdf9bc54c)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_6">
       <g>
-       <use xlink:href="#md272abf438" x="212.825102" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+       <use xlink:href="#m76ff742ea1" x="212.825102" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
-      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: middle" x="212.825102" y="360.025281" transform="rotate(-0 212.825102 360.025281)">200</text>
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: middle" x="212.825102" y="360.025281" transform="rotate(-0 212.825102 360.025281)">200</text>
      </g>
     </g>
     <g id="xtick_4">
      <g id="line2d_7">
       <path d="M 166.159146 346.032 
 L 166.159146 54.432 
-" clip-path="url(#p4c3056dfca)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#p2cdf9bc54c)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_8">
       <g>
-       <use xlink:href="#md272abf438" x="166.159146" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+       <use xlink:href="#m76ff742ea1" x="166.159146" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
-      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: middle" x="166.159146" y="360.025281" transform="rotate(-0 166.159146 360.025281)">300</text>
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: middle" x="166.159146" y="360.025281" transform="rotate(-0 166.159146 360.025281)">300</text>
      </g>
     </g>
     <g id="xtick_5">
      <g id="line2d_9">
       <path d="M 119.493191 346.032 
 L 119.493191 54.432 
-" clip-path="url(#p4c3056dfca)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#p2cdf9bc54c)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_10">
       <g>
-       <use xlink:href="#md272abf438" x="119.493191" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+       <use xlink:href="#m76ff742ea1" x="119.493191" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_5">
-      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: middle" x="119.493191" y="360.025281" transform="rotate(-0 119.493191 360.025281)">400</text>
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: middle" x="119.493191" y="360.025281" transform="rotate(-0 119.493191 360.025281)">400</text>
      </g>
     </g>
     <g id="text_6">
-     <text style="font: 10px 'NanumBarunGothic'; text-anchor: middle" x="208.158506" y="374.403719" transform="rotate(-0 208.158506 374.403719)">완제품 질량 (g/대)</text>
+     <text style="font: 10px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: middle" x="208.158506" y="374.403719" transform="rotate(-0 208.158506 374.403719)">완제품 질량 (g/대)</text>
     </g>
    </g>
    <g id="matplotlib.axis_2">
     <g id="ytick_1">
      <g id="line2d_11">
       <defs>
-       <path id="m14194d83d6" d="M 0 0 
+       <path id="mc4f0b51183" d="M 0 0 
 L -3.5 0 
 " style="stroke: #222222; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m14194d83d6" x="110.16" y="325.705322" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+       <use xlink:href="#mc4f0b51183" x="110.16" y="325.705322" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_7">
-      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: end" x="103.16" y="329.201962" transform="rotate(-0 103.16 329.201962)">PC</text>
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: end" x="103.16" y="329.201962" transform="rotate(-0 103.16 329.201962)">PC</text>
      </g>
     </g>
     <g id="ytick_2">
      <g id="line2d_12">
       <g>
-       <use xlink:href="#m14194d83d6" x="110.16" y="302.891991" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+       <use xlink:href="#mc4f0b51183" x="110.16" y="302.891991" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_8">
-      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: end" x="103.16" y="306.388631" transform="rotate(-0 103.16 306.388631)">POM</text>
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: end" x="103.16" y="306.388631" transform="rotate(-0 103.16 306.388631)">POM</text>
      </g>
     </g>
     <g id="ytick_3">
      <g id="line2d_13">
       <g>
-       <use xlink:href="#m14194d83d6" x="110.16" y="280.078659" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+       <use xlink:href="#mc4f0b51183" x="110.16" y="280.078659" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_9">
-      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: end" x="103.16" y="283.5753" transform="rotate(-0 103.16 283.5753)">Silicone</text>
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: end" x="103.16" y="283.5753" transform="rotate(-0 103.16 283.5753)">Silicone</text>
      </g>
     </g>
     <g id="ytick_4">
      <g id="line2d_14">
       <g>
-       <use xlink:href="#m14194d83d6" x="110.16" y="257.265328" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+       <use xlink:href="#mc4f0b51183" x="110.16" y="257.265328" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_10">
-      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: end" x="103.16" y="260.761969" transform="rotate(-0 103.16 260.761969)">Copper</text>
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: end" x="103.16" y="260.761969" transform="rotate(-0 103.16 260.761969)">Copper</text>
      </g>
     </g>
     <g id="ytick_5">
      <g id="line2d_15">
       <g>
-       <use xlink:href="#m14194d83d6" x="110.16" y="234.451997" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+       <use xlink:href="#mc4f0b51183" x="110.16" y="234.451997" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_11">
-      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: end" x="103.16" y="237.948637" transform="rotate(-0 103.16 237.948637)">Brass</text>
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: end" x="103.16" y="237.948637" transform="rotate(-0 103.16 237.948637)">Brass</text>
      </g>
     </g>
     <g id="ytick_6">
      <g id="line2d_16">
       <g>
-       <use xlink:href="#m14194d83d6" x="110.16" y="211.638666" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+       <use xlink:href="#mc4f0b51183" x="110.16" y="211.638666" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_12">
-      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: end" x="103.16" y="215.171166" transform="rotate(-0 103.16 215.171166)">Nylon (grade n/a)</text>
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: end" x="103.16" y="215.171166" transform="rotate(-0 103.16 215.171166)">Nylon (grade n/a)</text>
      </g>
     </g>
     <g id="ytick_7">
      <g id="line2d_17">
       <g>
-       <use xlink:href="#m14194d83d6" x="110.16" y="188.825334" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+       <use xlink:href="#mc4f0b51183" x="110.16" y="188.825334" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_13">
-      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: end" x="103.16" y="192.376116" transform="rotate(-0 103.16 192.376116)">LDPE foil (pack.)</text>
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: end" x="103.16" y="192.376116" transform="rotate(-0 103.16 192.376116)">LDPE foil (pack.)</text>
      </g>
     </g>
     <g id="ytick_8">
      <g id="line2d_18">
       <g>
-       <use xlink:href="#m14194d83d6" x="110.16" y="166.012003" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+       <use xlink:href="#mc4f0b51183" x="110.16" y="166.012003" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_14">
-      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: end" x="103.16" y="169.508644" transform="rotate(-0 103.16 169.508644)">PVC</text>
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: end" x="103.16" y="169.508644" transform="rotate(-0 103.16 169.508644)">PVC</text>
      </g>
     </g>
     <g id="ytick_9">
      <g id="line2d_19">
       <g>
-       <use xlink:href="#m14194d83d6" x="110.16" y="143.198672" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+       <use xlink:href="#mc4f0b51183" x="110.16" y="143.198672" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_15">
-      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: end" x="103.16" y="146.695313" transform="rotate(-0 103.16 146.695313)">ABS</text>
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: end" x="103.16" y="146.695313" transform="rotate(-0 103.16 146.695313)">ABS</text>
      </g>
     </g>
     <g id="ytick_10">
      <g id="line2d_20">
       <g>
-       <use xlink:href="#m14194d83d6" x="110.16" y="120.385341" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+       <use xlink:href="#mc4f0b51183" x="110.16" y="120.385341" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_16">
-      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: end" x="103.16" y="123.913622" transform="rotate(-0 103.16 123.913622)">Cardboard (pack.)</text>
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: end" x="103.16" y="123.913622" transform="rotate(-0 103.16 123.913622)">Cardboard (pack.)</text>
      </g>
     </g>
     <g id="ytick_11">
      <g id="line2d_21">
       <g>
-       <use xlink:href="#m14194d83d6" x="110.16" y="97.572009" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+       <use xlink:href="#mc4f0b51183" x="110.16" y="97.572009" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_17">
-      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: end" x="103.16" y="101.100291" transform="rotate(-0 103.16 101.100291)">Polypropylene (PP)</text>
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: end" x="103.16" y="101.100291" transform="rotate(-0 103.16 101.100291)">Polypropylene (PP)</text>
      </g>
     </g>
     <g id="ytick_12">
      <g id="line2d_22">
       <g>
-       <use xlink:href="#m14194d83d6" x="110.16" y="74.758678" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+       <use xlink:href="#mc4f0b51183" x="110.16" y="74.758678" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_18">
-      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: end" x="103.16" y="78.255319" transform="rotate(-0 103.16 78.255319)">Stainless steel (304)</text>
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: end" x="103.16" y="78.255319" transform="rotate(-0 103.16 78.255319)">Stainless steel (304)</text>
      </g>
     </g>
    </g>
@@ -255,7 +255,7 @@ L 303.007061 332.777455
 L 303.007061 318.633189 
 L 306.157013 318.633189 
 z
-" clip-path="url(#p4c3056dfca)" style="fill: #b0b0b0"/>
+" clip-path="url(#p2cdf9bc54c)" style="fill: #b0b0b0"/>
    </g>
    <g id="patch_4">
     <path d="M 306.157013 309.964123 
@@ -263,7 +263,7 @@ L 301.607082 309.964123
 L 301.607082 295.819858 
 L 306.157013 295.819858 
 z
-" clip-path="url(#p4c3056dfca)" style="fill: #b0b0b0"/>
+" clip-path="url(#p2cdf9bc54c)" style="fill: #b0b0b0"/>
    </g>
    <g id="patch_5">
     <path d="M 306.157013 287.150792 
@@ -271,7 +271,7 @@ L 300.557098 287.150792
 L 300.557098 273.006527 
 L 306.157013 273.006527 
 z
-" clip-path="url(#p4c3056dfca)" style="fill: #b0b0b0"/>
+" clip-path="url(#p2cdf9bc54c)" style="fill: #b0b0b0"/>
    </g>
    <g id="patch_6">
     <path d="M 306.157013 264.337461 
@@ -279,7 +279,7 @@ L 299.157119 264.337461
 L 299.157119 250.193195 
 L 306.157013 250.193195 
 z
-" clip-path="url(#p4c3056dfca)" style="fill: #b0b0b0"/>
+" clip-path="url(#p2cdf9bc54c)" style="fill: #b0b0b0"/>
    </g>
    <g id="patch_7">
     <path d="M 306.157013 241.52413 
@@ -287,7 +287,7 @@ L 296.707157 241.52413
 L 296.707157 227.379864 
 L 306.157013 227.379864 
 z
-" clip-path="url(#p4c3056dfca)" style="fill: #b0b0b0"/>
+" clip-path="url(#p2cdf9bc54c)" style="fill: #b0b0b0"/>
    </g>
    <g id="patch_8">
     <path d="M 306.157013 218.710798 
@@ -295,7 +295,7 @@ L 283.057365 218.710798
 L 283.057365 204.566533 
 L 306.157013 204.566533 
 z
-" clip-path="url(#p4c3056dfca)" style="fill: #b0b0b0"/>
+" clip-path="url(#p2cdf9bc54c)" style="fill: #b0b0b0"/>
    </g>
    <g id="patch_9">
     <path d="M 306.157013 195.897467 
@@ -303,7 +303,7 @@ L 303.217058 195.897467
 L 303.217058 181.753202 
 L 306.157013 181.753202 
 z
-" clip-path="url(#p4c3056dfca)" style="fill: #5f5f5f"/>
+" clip-path="url(#p2cdf9bc54c)" style="fill: #5f5f5f"/>
    </g>
    <g id="patch_10">
     <path d="M 306.157013 173.084136 
@@ -311,7 +311,7 @@ L 285.857322 173.084136
 L 285.857322 158.93987 
 L 306.157013 158.93987 
 z
-" clip-path="url(#p4c3056dfca)" style="fill: #5f5f5f"/>
+" clip-path="url(#p2cdf9bc54c)" style="fill: #5f5f5f"/>
    </g>
    <g id="patch_11">
     <path d="M 306.157013 150.270805 
@@ -319,7 +319,7 @@ L 292.157226 150.270805
 L 292.157226 136.126539 
 L 306.157013 136.126539 
 z
-" clip-path="url(#p4c3056dfca)" style="fill: #5f5f5f"/>
+" clip-path="url(#p2cdf9bc54c)" style="fill: #5f5f5f"/>
    </g>
    <g id="patch_12">
     <path d="M 306.157013 127.457473 
@@ -327,7 +327,7 @@ L 244.791281 127.457473
 L 244.791281 113.313208 
 L 306.157013 113.313208 
 z
-" clip-path="url(#p4c3056dfca)" style="fill: #5f5f5f"/>
+" clip-path="url(#p2cdf9bc54c)" style="fill: #5f5f5f"/>
    </g>
    <g id="patch_13">
     <path d="M 306.157013 104.644142 
@@ -335,7 +335,7 @@ L 142.709504 104.644142
 L 142.709504 90.499877 
 L 306.157013 90.499877 
 z
-" clip-path="url(#p4c3056dfca)" style="fill: #5f5f5f"/>
+" clip-path="url(#p2cdf9bc54c)" style="fill: #5f5f5f"/>
    </g>
    <g id="patch_14">
     <path d="M 306.157013 81.830811 
@@ -343,12 +343,12 @@ L 219.358336 81.830811
 L 219.358336 67.686545 
 L 306.157013 67.686545 
 z
-" clip-path="url(#p4c3056dfca)" style="fill: #5f5f5f"/>
+" clip-path="url(#p2cdf9bc54c)" style="fill: #5f5f5f"/>
    </g>
    <g id="line2d_23">
     <path d="M 110.16 200.232 
 L 306.157013 200.232 
-" clip-path="url(#p4c3056dfca)" style="fill: none; stroke-dasharray: 2.4,2.4; stroke-dashoffset: 0; stroke: #999999; stroke-width: 0.8"/>
+" clip-path="url(#p2cdf9bc54c)" style="fill: none; stroke-dasharray: 2.4,2.4; stroke-dashoffset: 0; stroke: #999999; stroke-width: 0.8"/>
    </g>
    <g id="patch_15">
     <path d="M 110.16 346.032 
@@ -361,40 +361,40 @@ L 306.157013 346.032
 " style="fill: none; stroke: #666666; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_19">
-    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: end" x="300.207103" y="327.81372" transform="rotate(-0 300.207103 327.81372)">6.8</text>
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: end" x="300.207103" y="327.81372" transform="rotate(-0 300.207103 327.81372)">6.8</text>
    </g>
    <g id="text_20">
-    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: end" x="298.807125" y="305.000389" transform="rotate(-0 298.807125 305.000389)">9.8</text>
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: end" x="298.807125" y="305.000389" transform="rotate(-0 298.807125 305.000389)">9.8</text>
    </g>
    <g id="text_21">
-    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: end" x="297.757141" y="282.187058" transform="rotate(-0 297.757141 282.187058)">12.0</text>
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: end" x="297.757141" y="282.187058" transform="rotate(-0 297.757141 282.187058)">12.0</text>
    </g>
    <g id="text_22">
-    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: end" x="296.357162" y="259.373727" transform="rotate(-0 296.357162 259.373727)">15.0</text>
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: end" x="296.357162" y="259.373727" transform="rotate(-0 296.357162 259.373727)">15.0</text>
    </g>
    <g id="text_23">
-    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: end" x="293.907199" y="236.560395" transform="rotate(-0 293.907199 236.560395)">20.2</text>
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: end" x="293.907199" y="236.560395" transform="rotate(-0 293.907199 236.560395)">20.2</text>
    </g>
    <g id="text_24">
-    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: end" x="280.257407" y="213.747064" transform="rotate(-0 280.257407 213.747064)">49.5</text>
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: end" x="280.257407" y="213.747064" transform="rotate(-0 280.257407 213.747064)">49.5</text>
    </g>
    <g id="text_25">
-    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: end" x="300.4171" y="190.933733" transform="rotate(-0 300.4171 190.933733)">6.3</text>
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: end" x="300.4171" y="190.933733" transform="rotate(-0 300.4171 190.933733)">6.3</text>
    </g>
    <g id="text_26">
-    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: end" x="283.057365" y="168.120402" transform="rotate(-0 283.057365 168.120402)">43.5</text>
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: end" x="283.057365" y="168.120402" transform="rotate(-0 283.057365 168.120402)">43.5</text>
    </g>
    <g id="text_27">
-    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: end" x="289.357269" y="145.30707" transform="rotate(-0 289.357269 145.30707)">30.0</text>
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: end" x="289.357269" y="145.30707" transform="rotate(-0 289.357269 145.30707)">30.0</text>
    </g>
    <g id="text_28">
-    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: end" x="241.991324" y="122.493739" transform="rotate(-0 241.991324 122.493739)">131.5</text>
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: end" x="241.991324" y="122.493739" transform="rotate(-0 241.991324 122.493739)">131.5</text>
    </g>
    <g id="text_29">
-    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: end" x="139.909547" y="99.680408" transform="rotate(-0 139.909547 99.680408)">350.2</text>
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: end" x="139.909547" y="99.680408" transform="rotate(-0 139.909547 99.680408)">350.2</text>
    </g>
    <g id="text_30">
-    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: end" x="216.558378" y="76.867077" transform="rotate(-0 216.558378 76.867077)">186.0</text>
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: end" x="216.558378" y="76.867077" transform="rotate(-0 216.558378 76.867077)">186.0</text>
    </g>
    <g id="legend_1">
     <g id="patch_17">
@@ -406,7 +406,7 @@ z
 " style="fill: #5f5f5f; stroke: #5f5f5f; stroke-linejoin: miter"/>
     </g>
     <g id="text_31">
-     <text style="font: 8.5px 'NanumBarunGothic'; text-anchor: start" x="141.61" y="322.751297" transform="rotate(-0 141.61 322.751297)">소재 GWP 계산됨</text>
+     <text style="font: 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="141.61" y="322.751297" transform="rotate(-0 141.61 322.751297)">소재 GWP 계산됨</text>
     </g>
     <g id="patch_18">
      <path d="M 117.81 335.994031 
@@ -417,7 +417,7 @@ z
 " style="fill: #b0b0b0; stroke: #b0b0b0; stroke-linejoin: miter"/>
     </g>
     <g id="text_32">
-     <text style="font: 8.5px 'NanumBarunGothic'; text-anchor: start" x="141.61" y="335.994031" transform="rotate(-0 141.61 335.994031)">소재 GWP 미계산</text>
+     <text style="font: 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="141.61" y="335.994031" transform="rotate(-0 141.61 335.994031)">소재 GWP 미계산</text>
     </g>
    </g>
   </g>
@@ -435,293 +435,278 @@ z
      <g id="line2d_24">
       <path d="M 321.44478 346.032 
 L 321.44478 54.432 
-" clip-path="url(#p5f14b598a5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#pb45029cd61)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_25">
       <g>
-       <use xlink:href="#md272abf438" x="321.44478" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+       <use xlink:href="#m76ff742ea1" x="321.44478" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_33">
-      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: middle" x="321.44478" y="360.025281" transform="rotate(-0 321.44478 360.025281)">0.0</text>
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: middle" x="321.44478" y="360.025281" transform="rotate(-0 321.44478 360.025281)">0.00</text>
      </g>
     </g>
     <g id="xtick_7">
      <g id="line2d_26">
-      <path d="M 357.284233 346.032 
-L 357.284233 54.432 
-" clip-path="url(#p5f14b598a5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
+      <path d="M 361.649295 346.032 
+L 361.649295 54.432 
+" clip-path="url(#pb45029cd61)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_27">
       <g>
-       <use xlink:href="#md272abf438" x="357.284233" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+       <use xlink:href="#m76ff742ea1" x="361.649295" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_34">
-      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: middle" x="357.284233" y="360.025281" transform="rotate(-0 357.284233 360.025281)">0.2</text>
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: middle" x="361.649295" y="360.025281" transform="rotate(-0 361.649295 360.025281)">0.25</text>
      </g>
     </g>
     <g id="xtick_8">
      <g id="line2d_28">
-      <path d="M 393.123687 346.032 
-L 393.123687 54.432 
-" clip-path="url(#p5f14b598a5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
+      <path d="M 401.853811 346.032 
+L 401.853811 54.432 
+" clip-path="url(#pb45029cd61)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_29">
       <g>
-       <use xlink:href="#md272abf438" x="393.123687" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+       <use xlink:href="#m76ff742ea1" x="401.853811" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_35">
-      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: middle" x="393.123687" y="360.025281" transform="rotate(-0 393.123687 360.025281)">0.4</text>
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: middle" x="401.853811" y="360.025281" transform="rotate(-0 401.853811 360.025281)">0.50</text>
      </g>
     </g>
     <g id="xtick_9">
      <g id="line2d_30">
-      <path d="M 428.963141 346.032 
-L 428.963141 54.432 
-" clip-path="url(#p5f14b598a5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
+      <path d="M 442.058326 346.032 
+L 442.058326 54.432 
+" clip-path="url(#pb45029cd61)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_31">
       <g>
-       <use xlink:href="#md272abf438" x="428.963141" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+       <use xlink:href="#m76ff742ea1" x="442.058326" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_36">
-      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: middle" x="428.963141" y="360.025281" transform="rotate(-0 428.963141 360.025281)">0.6</text>
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: middle" x="442.058326" y="360.025281" transform="rotate(-0 442.058326 360.025281)">0.75</text>
      </g>
     </g>
     <g id="xtick_10">
      <g id="line2d_32">
-      <path d="M 464.802595 346.032 
-L 464.802595 54.432 
-" clip-path="url(#p5f14b598a5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
+      <path d="M 482.262841 346.032 
+L 482.262841 54.432 
+" clip-path="url(#pb45029cd61)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_33">
       <g>
-       <use xlink:href="#md272abf438" x="464.802595" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+       <use xlink:href="#m76ff742ea1" x="482.262841" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_37">
-      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: middle" x="464.802595" y="360.025281" transform="rotate(-0 464.802595 360.025281)">0.8</text>
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: middle" x="482.262841" y="360.025281" transform="rotate(-0 482.262841 360.025281)">1.00</text>
      </g>
     </g>
     <g id="xtick_11">
      <g id="line2d_34">
-      <path d="M 500.642048 346.032 
-L 500.642048 54.432 
-" clip-path="url(#p5f14b598a5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
+      <path d="M 522.467357 346.032 
+L 522.467357 54.432 
+" clip-path="url(#pb45029cd61)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_35">
       <g>
-       <use xlink:href="#md272abf438" x="500.642048" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+       <use xlink:href="#m76ff742ea1" x="522.467357" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_38">
-      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: middle" x="500.642048" y="360.025281" transform="rotate(-0 500.642048 360.025281)">1.0</text>
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: middle" x="522.467357" y="360.025281" transform="rotate(-0 522.467357 360.025281)">1.25</text>
      </g>
     </g>
     <g id="xtick_12">
      <g id="line2d_36">
-      <path d="M 536.481502 346.032 
-L 536.481502 54.432 
-" clip-path="url(#p5f14b598a5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
+      <path d="M 562.671872 346.032 
+L 562.671872 54.432 
+" clip-path="url(#pb45029cd61)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_37">
       <g>
-       <use xlink:href="#md272abf438" x="536.481502" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+       <use xlink:href="#m76ff742ea1" x="562.671872" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_39">
-      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: middle" x="536.481502" y="360.025281" transform="rotate(-0 536.481502 360.025281)">1.2</text>
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: middle" x="562.671872" y="360.025281" transform="rotate(-0 562.671872 360.025281)">1.50</text>
      </g>
     </g>
     <g id="xtick_13">
      <g id="line2d_38">
-      <path d="M 572.320956 346.032 
-L 572.320956 54.432 
-" clip-path="url(#p5f14b598a5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
+      <path d="M 602.876388 346.032 
+L 602.876388 54.432 
+" clip-path="url(#pb45029cd61)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_39">
       <g>
-       <use xlink:href="#md272abf438" x="572.320956" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
+       <use xlink:href="#m76ff742ea1" x="602.876388" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_40">
-      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: middle" x="572.320956" y="360.025281" transform="rotate(-0 572.320956 360.025281)">1.4</text>
+      <text style="fill: #222222; font: 9px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: middle" x="602.876388" y="360.025281" transform="rotate(-0 602.876388 360.025281)">1.75</text>
      </g>
     </g>
-    <g id="xtick_14">
-     <g id="line2d_40">
-      <path d="M 608.16041 346.032 
-L 608.16041 54.432 
-" clip-path="url(#p5f14b598a5)" style="fill: none; stroke: #e5e5e5; stroke-width: 0.8; stroke-linecap: square"/>
-     </g>
-     <g id="line2d_41">
-      <g>
-       <use xlink:href="#md272abf438" x="608.16041" y="346.032" style="fill: #222222; stroke: #222222; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_41">
-      <text style="fill: #222222; font: 9px 'NanumBarunGothic'; text-anchor: middle" x="608.16041" y="360.025281" transform="rotate(-0 608.16041 360.025281)">1.6</text>
-     </g>
-    </g>
-    <g id="text_42">
+    <g id="text_41">
      <!-- GWP100 (kg CO$_2$-eq/대) -->
-     <g transform="translate(421.19239 374.453719)">
+     <g transform="translate(421.39239 374.453719)">
       <text>
-       <tspan style="font: 10px 'NanumBarunGothic'" x="0 7.099991 16.709976 22.569962 28.399948 34.229935 40.059921 42.299911 46.759903 52.059891 57.93988 60.179871 66.569855 78.912598 84.742584 90.332565 96.212555 100.672546 109.592529" y="-0.15625">GWP100 (kg CO-eq/대)</tspan>
-       <tspan style="font: 7px 'DejaVu Sans'" x="74.185547" y="1.484375">2</tspan>
+       <tspan style="font: 10px 'NanumBarunGothic'" x="0 7.099991 16.709976 22.569962 28.399948 34.229935 40.059921 42.299911 46.759903 52.059891 57.93988 60.179871 66.569855 78.539975 84.369962 89.959943 95.839932 100.299924 109.219907" y="-0.15625">GWP100 (kg CO-eq/대)</tspan>
+       <tspan style="font: 7px 'NanumBarunGothic'" x="74.185547" y="1.484375">2</tspan>
       </text>
      </g>
     </g>
    </g>
    <g id="matplotlib.axis_4">
     <g id="ytick_13">
-     <g id="line2d_42"/>
+     <g id="line2d_40"/>
     </g>
     <g id="ytick_14">
-     <g id="line2d_43"/>
+     <g id="line2d_41"/>
     </g>
     <g id="ytick_15">
-     <g id="line2d_44"/>
+     <g id="line2d_42"/>
     </g>
     <g id="ytick_16">
-     <g id="line2d_45"/>
+     <g id="line2d_43"/>
     </g>
     <g id="ytick_17">
-     <g id="line2d_46"/>
+     <g id="line2d_44"/>
     </g>
     <g id="ytick_18">
-     <g id="line2d_47"/>
+     <g id="line2d_45"/>
     </g>
     <g id="ytick_19">
-     <g id="line2d_48"/>
+     <g id="line2d_46"/>
     </g>
     <g id="ytick_20">
-     <g id="line2d_49"/>
+     <g id="line2d_47"/>
     </g>
     <g id="ytick_21">
-     <g id="line2d_50"/>
+     <g id="line2d_48"/>
     </g>
     <g id="ytick_22">
-     <g id="line2d_51"/>
+     <g id="line2d_49"/>
     </g>
     <g id="ytick_23">
-     <g id="line2d_52"/>
+     <g id="line2d_50"/>
     </g>
     <g id="ytick_24">
-     <g id="line2d_53"/>
+     <g id="line2d_51"/>
     </g>
    </g>
    <g id="patch_20">
     <path d="M 321.44478 332.777455 
-L 322.681445 332.777455 
-L 322.681445 318.633189 
+L 322.554608 332.777455 
+L 322.554608 318.633189 
 L 321.44478 318.633189 
 z
-" clip-path="url(#p5f14b598a5)" style="fill: #7fa7cf"/>
+" clip-path="url(#pb45029cd61)" style="fill: #7fa7cf"/>
    </g>
    <g id="patch_21">
     <path d="M 321.44478 309.964123 
-L 323.231075 309.964123 
-L 323.231075 295.819858 
+L 323.047865 309.964123 
+L 323.047865 295.819858 
 L 321.44478 295.819858 
 z
-" clip-path="url(#p5f14b598a5)" style="fill: #7fa7cf"/>
+" clip-path="url(#pb45029cd61)" style="fill: #7fa7cf"/>
    </g>
    <g id="patch_22">
     <path d="M 321.44478 218.710798 
-L 330.513662 218.710798 
-L 330.513662 204.566533 
+L 329.58352 218.710798 
+L 329.58352 204.566533 
 L 321.44478 204.566533 
 z
-" clip-path="url(#p5f14b598a5)" style="fill: #7fa7cf"/>
+" clip-path="url(#pb45029cd61)" style="fill: #7fa7cf"/>
    </g>
    <g id="patch_23">
     <path d="M 321.44478 195.897467 
-L 324.116174 195.897467 
-L 324.116174 181.753202 
+L 323.842185 195.897467 
+L 323.842185 181.753202 
 L 321.44478 181.753202 
 z
-" clip-path="url(#p5f14b598a5)" style="fill: #1f4e79"/>
+" clip-path="url(#pb45029cd61)" style="fill: #1f4e79"/>
    </g>
    <g id="patch_24">
-    <path d="M 324.116174 195.897467 
-L 324.340434 195.897467 
-L 324.340434 181.753202 
-L 324.116174 181.753202 
+    <path d="M 323.842185 195.897467 
+L 324.043443 195.897467 
+L 324.043443 181.753202 
+L 323.842185 181.753202 
 z
-" clip-path="url(#p5f14b598a5)" style="fill: #7fa7cf"/>
+" clip-path="url(#pb45029cd61)" style="fill: #7fa7cf"/>
    </g>
    <g id="patch_25">
     <path d="M 321.44478 173.084136 
-L 337.920939 173.084136 
-L 337.920939 158.93987 
+L 336.231077 173.084136 
+L 336.231077 158.93987 
 L 321.44478 158.93987 
 z
-" clip-path="url(#p5f14b598a5)" style="fill: #1f4e79"/>
+" clip-path="url(#pb45029cd61)" style="fill: #1f4e79"/>
    </g>
    <g id="patch_26">
-    <path d="M 337.920939 173.084136 
-L 339.469398 173.084136 
-L 339.469398 158.93987 
-L 337.920939 158.93987 
+    <path d="M 336.231077 173.084136 
+L 337.62072 173.084136 
+L 337.62072 158.93987 
+L 336.231077 158.93987 
 z
-" clip-path="url(#p5f14b598a5)" style="fill: #7fa7cf"/>
+" clip-path="url(#pb45029cd61)" style="fill: #7fa7cf"/>
    </g>
    <g id="patch_27">
     <path d="M 321.44478 150.270805 
-L 338.203362 150.270805 
-L 338.203362 136.126539 
+L 336.484533 150.270805 
+L 336.484533 136.126539 
 L 321.44478 136.126539 
 z
-" clip-path="url(#p5f14b598a5)" style="fill: #1f4e79"/>
+" clip-path="url(#pb45029cd61)" style="fill: #1f4e79"/>
    </g>
    <g id="patch_28">
-    <path d="M 338.203362 150.270805 
-L 343.699654 150.270805 
-L 343.699654 136.126539 
-L 338.203362 136.126539 
+    <path d="M 336.484533 150.270805 
+L 341.417103 150.270805 
+L 341.417103 136.126539 
+L 336.484533 136.126539 
 z
-" clip-path="url(#p5f14b598a5)" style="fill: #7fa7cf"/>
+" clip-path="url(#pb45029cd61)" style="fill: #7fa7cf"/>
    </g>
    <g id="patch_29">
     <path d="M 321.44478 127.457473 
-L 371.760526 127.457473 
-L 371.760526 113.313208 
+L 366.599936 127.457473 
+L 366.599936 113.313208 
 L 321.44478 113.313208 
 z
-" clip-path="url(#p5f14b598a5)" style="fill: #1f4e79"/>
+" clip-path="url(#pb45029cd61)" style="fill: #1f4e79"/>
    </g>
    <g id="patch_30">
     <path d="M 321.44478 104.644142 
-L 454.897989 104.644142 
-L 454.897989 90.499877 
+L 441.21048 104.644142 
+L 441.21048 90.499877 
 L 321.44478 90.499877 
 z
-" clip-path="url(#p5f14b598a5)" style="fill: #1f4e79"/>
+" clip-path="url(#pb45029cd61)" style="fill: #1f4e79"/>
    </g>
    <g id="patch_31">
-    <path d="M 454.897989 104.644142 
-L 519.067198 104.644142 
-L 519.067198 90.499877 
-L 454.897989 90.499877 
+    <path d="M 441.21048 104.644142 
+L 498.798232 104.644142 
+L 498.798232 90.499877 
+L 441.21048 90.499877 
 z
-" clip-path="url(#p5f14b598a5)" style="fill: #7fa7cf"/>
+" clip-path="url(#pb45029cd61)" style="fill: #7fa7cf"/>
    </g>
    <g id="patch_32">
     <path d="M 321.44478 81.830811 
-L 580.966294 81.830811 
-L 580.966294 67.686545 
+L 554.348703 81.830811 
+L 554.348703 67.686545 
 L 321.44478 67.686545 
 z
-" clip-path="url(#p5f14b598a5)" style="fill: #1f4e79"/>
+" clip-path="url(#pb45029cd61)" style="fill: #1f4e79"/>
    </g>
-   <g id="line2d_54">
+   <g id="line2d_52">
     <path d="M 321.44478 200.232 
 L 635.04 200.232 
-" clip-path="url(#p5f14b598a5)" style="fill: none; stroke-dasharray: 2.4,2.4; stroke-dashoffset: 0; stroke: #999999; stroke-width: 0.8"/>
+" clip-path="url(#pb45029cd61)" style="fill: none; stroke-dasharray: 2.4,2.4; stroke-dashoffset: 0; stroke: #999999; stroke-width: 0.8"/>
    </g>
    <g id="patch_33">
     <path d="M 321.44478 346.032 
@@ -733,41 +718,41 @@ L 321.44478 54.432
 L 635.04 346.032 
 " style="fill: none; stroke: #666666; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
+   <g id="text_42">
+    <text style="fill: #666666; font: italic 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="325.770969" y="327.826337" transform="rotate(-0 325.770969 327.826337)">가공 0.007 · 소재 미계산 (TianGong 매칭 대기)</text>
+   </g>
    <g id="text_43">
-    <text style="fill: #666666; font: italic 8.5px 'NanumBarunGothic'; text-anchor: start" x="326.265391" y="327.826337" transform="rotate(-0 326.265391 327.826337)">가공 0.007 · 소재 미계산 (TianGong 매칭 대기)</text>
+    <text style="fill: #666666; font: italic 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="326.264226" y="305.013006" transform="rotate(-0 326.264226 305.013006)">가공 0.010 · 소재 미계산 (TianGong 매칭 대기)</text>
    </g>
    <g id="text_44">
-    <text style="fill: #666666; font: italic 8.5px 'NanumBarunGothic'; text-anchor: start" x="326.81502" y="305.013006" transform="rotate(-0 326.81502 305.013006)">가공 0.010 · 소재 미계산 (TianGong 매칭 대기)</text>
+    <text style="fill: #666666; font: italic 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="324.661141" y="282.199675" transform="rotate(-0 324.661141 282.199675)">소재 미계산 (TianGong 매칭 대기)</text>
    </g>
    <g id="text_45">
-    <text style="fill: #666666; font: italic 8.5px 'NanumBarunGothic'; text-anchor: start" x="325.028725" y="282.199675" transform="rotate(-0 325.028725 282.199675)">소재 미계산 (TianGong 매칭 대기)</text>
+    <text style="fill: #666666; font: italic 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="324.661141" y="259.386344" transform="rotate(-0 324.661141 259.386344)">소재 미계산 (TianGong 매칭 대기)</text>
    </g>
    <g id="text_46">
-    <text style="fill: #666666; font: italic 8.5px 'NanumBarunGothic'; text-anchor: start" x="325.028725" y="259.386344" transform="rotate(-0 325.028725 259.386344)">소재 미계산 (TianGong 매칭 대기)</text>
+    <text style="fill: #666666; font: italic 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="324.661141" y="236.573012" transform="rotate(-0 324.661141 236.573012)">소재 미계산 (TianGong 매칭 대기)</text>
    </g>
    <g id="text_47">
-    <text style="fill: #666666; font: italic 8.5px 'NanumBarunGothic'; text-anchor: start" x="325.028725" y="236.573012" transform="rotate(-0 325.028725 236.573012)">소재 미계산 (TianGong 매칭 대기)</text>
+    <text style="fill: #666666; font: italic 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="332.799881" y="213.759681" transform="rotate(-0 332.799881 213.759681)">가공 0.051 · 소재 미계산 (TianGong 매칭 대기)</text>
    </g>
    <g id="text_48">
-    <text style="fill: #666666; font: italic 8.5px 'NanumBarunGothic'; text-anchor: start" x="334.097607" y="213.759681" transform="rotate(-0 334.097607 213.759681)">가공 0.051 · 소재 미계산 (TianGong 매칭 대기)</text>
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="327.259805" y="190.933733" transform="rotate(-0 327.259805 190.933733)">0.016</text>
    </g>
    <g id="text_49">
-    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: start" x="327.924379" y="190.933733" transform="rotate(-0 327.924379 190.933733)">0.016</text>
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="340.837081" y="168.120402" transform="rotate(-0 340.837081 168.120402)">0.101</text>
    </g>
    <g id="text_50">
-    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: start" x="343.053344" y="168.120402" transform="rotate(-0 343.053344 168.120402)">0.101</text>
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="344.633464" y="145.30707" transform="rotate(-0 344.633464 145.30707)">0.124</text>
    </g>
    <g id="text_51">
-    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: start" x="347.283599" y="145.30707" transform="rotate(-0 347.283599 145.30707)">0.124</text>
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="369.816297" y="122.493739" transform="rotate(-0 369.816297 122.493739)">0.281 · 가공 미계산</text>
    </g>
    <g id="text_52">
-    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: start" x="375.344471" y="122.493739" transform="rotate(-0 375.344471 122.493739)">0.281</text>
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="502.014593" y="99.680408" transform="rotate(-0 502.014593 99.680408)">1.103</text>
    </g>
    <g id="text_53">
-    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: start" x="522.651144" y="99.680408" transform="rotate(-0 522.651144 99.680408)">1.103</text>
-   </g>
-   <g id="text_54">
-    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic'; text-anchor: start" x="584.550239" y="76.867077" transform="rotate(-0 584.550239 76.867077)">1.448</text>
+    <text style="fill: #222222; font: 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="557.565064" y="76.867077" transform="rotate(-0 557.565064 76.867077)">1.448 · 가공 미계산</text>
    </g>
    <g id="legend_2">
     <g id="patch_35">
@@ -778,8 +763,8 @@ L 538.894375 316.801297
 z
 " style="fill: #1f4e79; stroke: #1f4e79; stroke-linejoin: miter"/>
     </g>
-    <g id="text_55">
-     <text style="font: 8.5px 'NanumBarunGothic'; text-anchor: start" x="562.694375" y="322.751297" transform="rotate(-0 562.694375 322.751297)">소재 생산 (USLCI)</text>
+    <g id="text_54">
+     <text style="font: 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="562.694375" y="322.751297" transform="rotate(-0 562.694375 322.751297)">소재 생산 (USLCI)</text>
     </g>
     <g id="patch_36">
      <path d="M 538.894375 335.994031 
@@ -789,29 +774,29 @@ L 538.894375 330.044031
 z
 " style="fill: #7fa7cf; stroke: #7fa7cf; stroke-linejoin: miter"/>
     </g>
-    <g id="text_56">
-     <text style="font: 8.5px 'NanumBarunGothic'; text-anchor: start" x="562.694375" y="335.994031" transform="rotate(-0 562.694375 335.994031)">부품 가공</text>
+    <g id="text_55">
+     <text style="font: 8.5px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="562.694375" y="335.994031" transform="rotate(-0 562.694375 335.994031)">부품 가공</text>
     </g>
    </g>
   </g>
-  <g id="text_57">
-   <text style="font: 700 12px 'NanumBarunGothic'; text-anchor: start" x="51.84" y="17.171625" transform="rotate(-0 51.84 17.171625)">항목별 질량과 GWP100 기여 (1차 계산, USLCI 기준)</text>
+  <g id="text_56">
+   <text style="font: 700 12px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="12.96" y="17.171625" transform="rotate(-0 12.96 17.171625)">항목별 질량과 GWP100 기여 (1차 계산, USLCI 기준)</text>
   </g>
-  <g id="text_58">
+  <g id="text_57">
    <!-- 계산된 항목 합계 3.14 kg CO$_2$-eq/대 · 포장 포함 질량의 86.8% 반영 · 점선 아래 6개 소재는 미계산이며 0이 아니다 -->
-   <g style="fill: #444444" transform="translate(51.84 36.936)">
+   <g style="fill: #444444" transform="translate(12.96 36.936)">
     <text>
-     <tspan style="font: 8.5px 'NanumBarunGothic'" x="0 7.582001 15.164001 22.746002 24.649994 32.231995 39.813995 41.717987 49.299988 56.881989 58.78598 63.741486 66.265976 71.221481 76.176987 78.080978 82.585983 87.583984 89.487976 94.919479 105.411346 110.366851 115.118347 120.116348 123.907348 131.489349 133.39334 137.184341 139.088333 146.670333 154.252334 156.156326 163.738326 171.320327 173.224319 180.80632 188.38832 195.970321 197.874313 202.829818 207.785323 210.309814 215.265319 222.84732 224.751312 232.333312 239.915313 241.819305 245.610305 247.514297 255.096298 262.678298 264.58229 272.164291 279.746292 281.650283 286.605789 294.187789 296.091781 303.673782 311.255782 318.837783 320.741775 328.323776 335.905776 343.487777 351.069778 358.651779 360.55577 365.511276 373.093276 374.997268 382.579269 390.16127" y="-0.328125">계산된 항목 합계 3.14 kg CO-eq/대 · 포장 포함 질량의 86.8% 반영 · 점선 아래 6개 소재는 미계산이며 0이 아니다</tspan>
-     <tspan style="font: 5.95px 'DejaVu Sans'" x="101.392962" y="1.0687499999999996">2</tspan>
+     <tspan style="font: 8.5px 'NanumBarunGothic'" x="0 7.582001 15.164001 22.746002 24.649994 32.231995 39.813995 41.717987 49.299988 56.881989 58.78598 63.741486 66.265976 71.221481 76.176987 78.080978 82.585983 87.583984 89.487976 94.919479 105.094628 110.050134 114.801629 119.79963 123.59063 131.172631 133.076623 136.867623 138.771615 146.353616 153.935616 155.839608 163.421609 171.00361 172.907601 180.489602 188.071603 195.653604 197.557595 202.513101 207.468606 209.993096 214.948602 222.530602 224.434594 232.016595 239.598596 241.502587 245.293588 247.197579 254.77958 262.361581 264.265573 271.847573 279.429574 281.333566 286.289071 293.871072 295.775063 303.357064 310.939065 318.521066 320.425057 328.007058 335.589059 343.17106 350.75306 358.335061 360.239053 365.194558 372.776559 374.680551 382.262551 389.844552" y="-0.328125">계산된 항목 합계 3.14 kg CO-eq/대 · 포장 포함 질량의 86.8% 반영 · 점선 아래 6개 소재는 미계산이며 0이 아니다</tspan>
+     <tspan style="font: 5.95px 'NanumBarunGothic'" x="101.392962" y="1.0687499999999996">2</tspan>
     </text>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p4c3056dfca">
+  <clipPath id="p2cdf9bc54c">
    <rect x="110.16" y="54.432" width="195.997013" height="291.6"/>
   </clipPath>
-  <clipPath id="p5f14b598a5">
+  <clipPath id="pb45029cd61">
    <rect x="321.44478" y="54.432" width="313.59522" height="291.6"/>
   </clipPath>
  </defs>

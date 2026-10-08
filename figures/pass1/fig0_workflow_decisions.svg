@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="979.2pt" height="525.6pt" viewBox="0 0 979.2 525.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-08T15:19:06.813121</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.8.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 525.6 
+L 979.2 525.6 
+L 979.2 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 15.12 187.2 
+L 186.48 187.2 
+Q 192.24 187.2 192.24 181.44 
+L 192.24 78.48 
+Q 192.24 72.72 186.48 72.72 
+L 15.12 72.72 
+Q 9.36 72.72 9.36 78.48 
+L 9.36 181.44 
+Q 9.36 187.2 15.12 187.2 
+z
+" clip-path="url(#p6ed9ce7fd1)" style="fill: #eef3f8; stroke: #1f4e79; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 210.96 187.2 
+L 382.32 187.2 
+Q 388.08 187.2 388.08 181.44 
+L 388.08 78.48 
+Q 388.08 72.72 382.32 72.72 
+L 210.96 72.72 
+Q 205.2 72.72 205.2 78.48 
+L 205.2 181.44 
+Q 205.2 187.2 210.96 187.2 
+z
+" clip-path="url(#p6ed9ce7fd1)" style="fill: #eef3f8; stroke: #1f4e79; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 406.8 187.2 
+L 578.16 187.2 
+Q 583.92 187.2 583.92 181.44 
+L 583.92 78.48 
+Q 583.92 72.72 578.16 72.72 
+L 406.8 72.72 
+Q 401.04 72.72 401.04 78.48 
+L 401.04 181.44 
+Q 401.04 187.2 406.8 187.2 
+z
+" clip-path="url(#p6ed9ce7fd1)" style="fill: #eef3f8; stroke: #1f4e79; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 602.64 187.2 
+L 774 187.2 
+Q 779.76 187.2 779.76 181.44 
+L 779.76 78.48 
+Q 779.76 72.72 774 72.72 
+L 602.64 72.72 
+Q 596.88 72.72 596.88 78.48 
+L 596.88 181.44 
+Q 596.88 187.2 602.64 187.2 
+z
+" clip-path="url(#p6ed9ce7fd1)" style="fill: #eef3f8; stroke: #1f4e79; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 798.48 187.2 
+L 969.84 187.2 
+Q 975.6 187.2 975.6 181.44 
+L 975.6 78.48 
+Q 975.6 72.72 969.84 72.72 
+L 798.48 72.72 
+Q 792.72 72.72 792.72 78.48 
+L 792.72 181.44 
+Q 792.72 187.2 798.48 187.2 
+z
+" clip-path="url(#p6ed9ce7fd1)" style="fill: #eef3f8; stroke: #1f4e79; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 193.520391 129.96 
+Q 198.71969 129.96 202.465545 129.96 
+" clip-path="url(#p6ed9ce7fd1)" style="fill: none; stroke: #333333; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 196.865545 127.16 
+L 202.465545 129.96 
+L 196.865545 132.76 
+z
+" clip-path="url(#p6ed9ce7fd1)" style="fill: #333333; stroke: #333333; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 389.360391 129.96 
+Q 394.55969 129.96 398.305545 129.96 
+" clip-path="url(#p6ed9ce7fd1)" style="fill: none; stroke: #333333; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 392.705545 127.16 
+L 398.305545 129.96 
+L 392.705545 132.76 
+z
+" clip-path="url(#p6ed9ce7fd1)" style="fill: #333333; stroke: #333333; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 585.200391 129.96 
+Q 590.39969 129.96 594.145545 129.96 
+" clip-path="url(#p6ed9ce7fd1)" style="fill: none; stroke: #333333; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 588.545545 127.16 
+L 594.145545 129.96 
+L 588.545545 132.76 
+z
+" clip-path="url(#p6ed9ce7fd1)" style="fill: #333333; stroke: #333333; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 781.040391 129.96 
+Q 786.23969 129.96 789.985545 129.96 
+" clip-path="url(#p6ed9ce7fd1)" style="fill: none; stroke: #333333; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 784.385545 127.16 
+L 789.985545 129.96 
+L 784.385545 132.76 
+z
+" clip-path="url(#p6ed9ce7fd1)" style="fill: #333333; stroke: #333333; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 15.12 289.44 
+L 186.48 289.44 
+Q 192.24 289.44 192.24 283.68 
+L 192.24 216.72 
+Q 192.24 210.96 186.48 210.96 
+L 15.12 210.96 
+Q 9.36 210.96 9.36 216.72 
+L 9.36 283.68 
+Q 9.36 289.44 15.12 289.44 
+z
+" clip-path="url(#p6ed9ce7fd1)" style="fill: #ffffff; stroke: #5f5f5f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 210.96 289.44 
+L 382.32 289.44 
+Q 388.08 289.44 388.08 283.68 
+L 388.08 216.72 
+Q 388.08 210.96 382.32 210.96 
+L 210.96 210.96 
+Q 205.2 210.96 205.2 216.72 
+L 205.2 283.68 
+Q 205.2 289.44 210.96 289.44 
+z
+" clip-path="url(#p6ed9ce7fd1)" style="fill: #ffffff; stroke: #5f5f5f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 406.8 289.44 
+L 578.16 289.44 
+Q 583.92 289.44 583.92 283.68 
+L 583.92 216.72 
+Q 583.92 210.96 578.16 210.96 
+L 406.8 210.96 
+Q 401.04 210.96 401.04 216.72 
+L 401.04 283.68 
+Q 401.04 289.44 406.8 289.44 
+z
+" clip-path="url(#p6ed9ce7fd1)" style="fill: #ffffff; stroke: #5f5f5f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 406.8 378 
+L 578.16 378 
+Q 583.92 378 583.92 372.24 
+L 583.92 305.28 
+Q 583.92 299.52 578.16 299.52 
+L 406.8 299.52 
+Q 401.04 299.52 401.04 305.28 
+L 401.04 372.24 
+Q 401.04 378 406.8 378 
+z
+" clip-path="url(#p6ed9ce7fd1)" style="fill: #ffffff; stroke: #5f5f5f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 602.64 289.44 
+L 774 289.44 
+Q 779.76 289.44 779.76 283.68 
+L 779.76 216.72 
+Q 779.76 210.96 774 210.96 
+L 602.64 210.96 
+Q 596.88 210.96 596.88 216.72 
+L 596.88 283.68 
+Q 596.88 289.44 602.64 289.44 
+z
+" clip-path="url(#p6ed9ce7fd1)" style="fill: #ffffff; stroke: #5f5f5f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 602.64 378 
+L 774 378 
+Q 779.76 378 779.76 372.24 
+L 779.76 305.28 
+Q 779.76 299.52 774 299.52 
+L 602.64 299.52 
+Q 596.88 299.52 596.88 305.28 
+L 596.88 372.24 
+Q 596.88 378 602.64 378 
+z
+" clip-path="url(#p6ed9ce7fd1)" style="fill: #ffffff; stroke: #5f5f5f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 798.48 289.44 
+L 969.84 289.44 
+Q 975.6 289.44 975.6 283.68 
+L 975.6 216.72 
+Q 975.6 210.96 969.84 210.96 
+L 798.48 210.96 
+Q 792.72 210.96 792.72 216.72 
+L 792.72 283.68 
+Q 792.72 289.44 798.48 289.44 
+z
+" clip-path="url(#p6ed9ce7fd1)" style="fill: #ffffff; stroke: #5f5f5f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 798.48 378 
+L 969.84 378 
+Q 975.6 378 975.6 372.24 
+L 975.6 305.28 
+Q 975.6 299.52 969.84 299.52 
+L 798.48 299.52 
+Q 792.72 299.52 792.72 305.28 
+L 792.72 372.24 
+Q 792.72 378 798.48 378 
+z
+" clip-path="url(#p6ed9ce7fd1)" style="fill: #ffffff; stroke: #5f5f5f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 15.12 516.24 
+L 315.12 516.24 
+Q 320.88 516.24 320.88 510.48 
+L 320.88 450.72 
+Q 320.88 444.96 315.12 444.96 
+L 15.12 444.96 
+Q 9.36 444.96 9.36 450.72 
+L 9.36 510.48 
+Q 9.36 516.24 15.12 516.24 
+z
+" clip-path="url(#p6ed9ce7fd1)" style="fill: #f6f6f6; stroke: #999999; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 322.160391 480.6 
+Q 327.35969 480.6 331.217348 480.6 
+" clip-path="url(#p6ed9ce7fd1)" style="fill: none; stroke: #333333; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 326.417348 478.2 
+L 331.217348 480.6 
+L 326.417348 483 
+z
+" clip-path="url(#p6ed9ce7fd1)" style="fill: #333333; stroke: #333333; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 339.6 516.24 
+L 639.6 516.24 
+Q 645.36 516.24 645.36 510.48 
+L 645.36 450.72 
+Q 645.36 444.96 639.6 444.96 
+L 339.6 444.96 
+Q 333.84 444.96 333.84 450.72 
+L 333.84 510.48 
+Q 333.84 516.24 339.6 516.24 
+z
+" clip-path="url(#p6ed9ce7fd1)" style="fill: #f6f6f6; stroke: #999999; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 646.640391 480.6 
+Q 651.83969 480.6 655.697348 480.6 
+" clip-path="url(#p6ed9ce7fd1)" style="fill: none; stroke: #333333; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 650.897348 478.2 
+L 655.697348 480.6 
+L 650.897348 483 
+z
+" clip-path="url(#p6ed9ce7fd1)" style="fill: #333333; stroke: #333333; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 664.08 516.24 
+L 964.08 516.24 
+Q 969.84 516.24 969.84 510.48 
+L 969.84 450.72 
+Q 969.84 444.96 964.08 444.96 
+L 664.08 444.96 
+Q 658.32 444.96 658.32 450.72 
+L 658.32 510.48 
+Q 658.32 516.24 664.08 516.24 
+z
+" clip-path="url(#p6ed9ce7fd1)" style="fill: #f6f6f6; stroke: #999999; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 100.8 187.2 
+L 100.8 210.96 
+" clip-path="url(#p6ed9ce7fd1)" style="fill: none; stroke-dasharray: 3,3; stroke-dashoffset: 0; stroke: #777777"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 296.64 187.2 
+L 296.64 210.96 
+" clip-path="url(#p6ed9ce7fd1)" style="fill: none; stroke-dasharray: 3,3; stroke-dashoffset: 0; stroke: #777777"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 492.48 187.2 
+L 492.48 210.96 
+" clip-path="url(#p6ed9ce7fd1)" style="fill: none; stroke-dasharray: 3,3; stroke-dashoffset: 0; stroke: #777777"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 688.32 187.2 
+L 688.32 210.96 
+" clip-path="url(#p6ed9ce7fd1)" style="fill: none; stroke-dasharray: 3,3; stroke-dashoffset: 0; stroke: #777777"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 884.16 187.2 
+L 884.16 210.96 
+" clip-path="url(#p6ed9ce7fd1)" style="fill: none; stroke-dasharray: 3,3; stroke-dashoffset: 0; stroke: #777777"/>
+   </g>
+   <g id="text_1">
+    <text style="fill: #222222; font: 700 13px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="10.8" y="28.178594" transform="rotate(-0 10.8 28.178594)">1차 계산의 작업 흐름, 계산 알고리즘, 판단 지점</text>
+   </g>
+   <g id="text_2">
+    <text style="fill: #444444; font: 9px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="10.8" y="51.633281" transform="rotate(-0 10.8 51.633281)">실선 화살표는 작업 순서, 점선은 해당 단계에서 내린 판단이다. 판단 옆 괄호는 그 판단을 바꿨을 때의 결과 변화이다.</text>
+   </g>
+   <g id="text_3">
+    <text style="fill: #222222; font: 700 10px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="19.44" y="93.509688" transform="rotate(-0 19.44 93.509688)">① 입력 정의</text>
+   </g>
+   <g id="text_4">
+    <text style="fill: #222222; font: 8.6px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(19.44 116.842469)">BOM 12종</text>
+    <text style="fill: #222222; font: 8.6px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(19.44 128.985131)">제품 723 g + 포장 137.8 g</text>
+    <text style="fill: #222222; font: 8.6px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(19.44 141.125711)">기능 단위: 포장된 주전자 1대</text>
+    <text style="fill: #222222; font: 8.6px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(19.44 153.381383)">(factory gate까지)</text>
+   </g>
+   <g id="text_5">
+    <text style="fill: #222222; font: 700 10px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="215.28" y="93.509688" transform="rotate(-0 215.28 93.509688)">② 데이터 확보</text>
+   </g>
+   <g id="text_6">
+    <text style="fill: #222222; font: 8.6px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(215.28 116.868)">USLCI: Commons Merged 패키지</text>
+    <text style="fill: #222222; font: 8.6px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(215.28 129.00858)">(51 MB, 공정 2,511개)</text>
+    <text style="fill: #222222; font: 8.6px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(215.28 141.151242)">TianGong: CLI 설치 완료,</text>
+    <text style="fill: #222222; font: 8.6px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(215.28 153.291822)">로그인 완료 대기</text>
+   </g>
+   <g id="text_7">
+    <text style="fill: #222222; font: 700 10px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="411.12" y="93.509688" transform="rotate(-0 411.12 93.509688)">③ 데이터셋 매칭</text>
+   </g>
+   <g id="text_8">
+    <text style="fill: #222222; font: 8.6px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(411.12 116.842469)">USLCI 매칭 6종</text>
+    <text style="fill: #222222; font: 8.6px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(411.12 128.948111)">(포장 포함 질량의 86.8%)</text>
+    <text style="fill: #222222; font: 8.6px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(411.12 141.053753)">미계산 6종: 황동, 구리,</text>
+    <text style="fill: #222222; font: 8.6px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(411.12 153.159395)">나일론, POM, PC, 실리콘</text>
+   </g>
+   <g id="text_9">
+    <text style="fill: #222222; font: 700 10px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="606.96" y="93.509688" transform="rotate(-0 606.96 93.509688)">④ 행렬 계산</text>
+   </g>
+   <g id="text_10">
+    <text style="fill: #222222; font: 8.6px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(606.96 116.842469)">공급망 전체를 연립방정식으로</text>
+    <text style="fill: #222222; font: 8.6px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(606.96 128.948111)">한 번에 풀이</text>
+    <text style="fill: #222222; font: 8.6px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(606.96 141.053753)">열 2,729개, 기본 흐름 4,944개</text>
+   </g>
+   <g id="text_11">
+    <text style="fill: #222222; font: 700 10px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="802.8" y="93.509688" transform="rotate(-0 802.8 93.509688)">⑤ 결과와 점검</text>
+   </g>
+   <g id="text_12">
+    <!-- 3.14 kg CO$_2$-eq/대 (부분 결과) -->
+    <g style="fill: #222222" transform="translate(802.8 116.954)">
+     <text>
+      <tspan style="font: 8.6px 'NanumBarunGothic'" x="0 5.010147 7.562485 12.572632 17.582779 19.507767 24.062439 29.115555 31.040543 36.531937 46.818979 51.829126 56.63302 61.686136 65.51893 73.184534 75.109522 78.942316 86.60792 94.273523 96.198511 103.864115 111.529718" y="-0.25">3.14 kg CO-eq/대 (부분 결과)</tspan>
+      <tspan style="font: 6.02px 'NanumBarunGothic'" x="43.07672" y="1.1609374999999993">2</tspan>
+     </text>
+    </g>
+    <text style="fill: #222222; font: 8.6px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(802.8 129.13758)">질량 수지 통과</text>
+    <text style="fill: #222222; font: 8.6px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(802.8 141.243222)">기여 합계 = 전체 해 (통과)</text>
+    <text style="fill: #222222; font: 8.6px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(802.8 153.348864)">미계산 항목은 0이 아님</text>
+   </g>
+   <g id="text_13">
+    <text style="fill: #222222; font: 700 9.2px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="19.44" y="231.123313" transform="rotate(-0 19.44 231.123313)">판단 D0 · 재료 손실</text>
+   </g>
+   <g id="text_14">
+    <text style="fill: #222222; font: 8.3px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(19.44 254.849359)">PP만 데이터셋 손실 3.4% 적용,</text>
+    <text style="fill: #222222; font: 8.3px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(19.44 266.532712)">나머지는 미반영</text>
+    <text style="fill: #222222; font: 8.3px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(19.44 278.216064)">(과소 추정 방향)</text>
+   </g>
+   <g id="text_15">
+    <text style="fill: #222222; font: 700 9.2px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="215.28" y="231.123313" transform="rotate(-0 215.28 231.123313)">판단 D1 · DB 패키지</text>
+   </g>
+   <g id="text_16">
+    <text style="fill: #222222; font: 8.3px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(215.28 254.874)">USLCI 단독 대신 Commons Merged</text>
+    <text style="fill: #222222; font: 8.3px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(215.28 266.591071)">(외부 전력 공급망 연결 확보)</text>
+   </g>
+   <g id="text_17">
+    <text style="fill: #222222; font: 700 9.2px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="411.12" y="231.123313" transform="rotate(-0 411.12 231.123313)">판단 D2 · 데이터 없는 소재</text>
+   </g>
+   <g id="text_18">
+    <text style="fill: #222222; font: 8.3px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(411.12 254.849359)">0으로 두지 않고 '미계산' 표기</text>
+    <text style="fill: #222222; font: 8.3px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(411.12 266.617333)">(TianGong으로 보완 예정)</text>
+   </g>
+   <g id="text_19">
+    <text style="fill: #222222; font: 700 9.2px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="411.12" y="319.683313" transform="rotate(-0 411.12 319.683313)">판단 D3 · 부품 가공</text>
+   </g>
+   <g id="text_20">
+    <text style="fill: #222222; font: 8.3px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(411.12 343.409359)">PP 사출 데이터를 수지와 가공으로</text>
+    <text style="fill: #222222; font: 8.3px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(411.12 355.199898)">분리, 다른 플라스틱에 proxy 적용</text>
+   </g>
+   <g id="text_21">
+    <text style="fill: #222222; font: 700 9.2px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="606.96" y="231.123313" transform="rotate(-0 606.96 231.123313)">판단 D4 · 다중 산출 공정</text>
+   </g>
+   <g id="text_22">
+    <text style="fill: #222222; font: 8.3px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(606.96 254.849359)">정유 등은 제품별 열로 분리</text>
+    <text style="fill: #222222; font: 8.3px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(606.96 266.532712)">(초기 오류 수정: PP 수지</text>
+    <!-- 117 → 2.06 kg CO$_2$-eq/kg) -->
+    <g style="fill: #222222" transform="translate(606.96 278.372143)">
+     <text>
+      <tspan style="font: 8.3px 'NanumBarunGothic'" x="0 4.837067 9.674133 14.5112 16.36969 23.770493 25.628983 30.466049 32.930222 37.767288 42.604355 44.462845 48.860184 53.738739 55.597229 60.898926 70.829974 75.667041 80.304996 85.183551 88.883945 93.281284 98.159839" y="-0.484375">117 → 2.06 kg CO-eq/kg)</tspan>
+      <tspan style="font: 5.81px 'NanumBarunGothic'" x="67.217465" y="0.875">2</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_23">
+    <text style="fill: #222222; font: 700 9.2px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="606.96" y="319.683313" transform="rotate(-0 606.96 319.683313)">판단 D5 · 특성화 방법</text>
+   </g>
+   <g id="text_24">
+    <!-- IPCC AR6-100, 생물기원 CO$_2$ = 0 -->
+    <g style="fill: #222222" transform="translate(606.96 343.409359)">
+     <text>
+      <tspan style="font: 8.3px 'NanumBarunGothic'" x="0 2.049316 6.911285 12.212982 17.514679 19.373169 24.716354 29.777435 34.614502 39.451569 44.288635 49.125702 53.962769 56.426941 58.285431 65.686234 73.087036 80.487839 87.888641 89.747131 95.048828 104.979877 106.838367 111.675433 113.533923" y="-0.53125">IPCC AR6-100, 생물기원 CO = 0</tspan>
+      <tspan style="font: 5.81px 'NanumBarunGothic'" x="101.367368" y="0.828125">2</tspan>
+     </text>
+    </g>
+    <text style="fill: #222222; font: 8.3px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(606.96 355.177333)">(AR5, Net Biogenic: 차이 0.05% 이내)</text>
+   </g>
+   <g id="text_25">
+    <text style="fill: #222222; font: 700 9.2px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="802.8" y="231.123313" transform="rotate(-0 802.8 231.123313)">판단 D6 · 스테인리스 스크랩</text>
+   </g>
+   <g id="text_26">
+    <text style="fill: #222222; font: 8.3px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(802.8 254.949219)">데이터셋 부담(value of scrap) 유지</text>
+    <text style="fill: #222222; font: 8.3px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(802.8 266.632571)">(cut-off 적용 시 −20.3%)</text>
+   </g>
+   <g id="text_27">
+    <!-- 판단 D7 · 골판지 공장 CO$_2$ -->
+    <g style="fill: #222222" transform="translate(802.8 319.683313)">
+     <text>
+      <tspan style="font: 600 9.2px 'NanumBarunGothic'" x="0 8.195236 16.390472 18.448471 25.072647 30.42894 32.486938 36.584549 38.642548 46.837784 55.03302 63.228256 65.286255 73.481491 81.676727 83.734726 89.60553" y="-0.78125">판단 D7 · 골판지 공장 CO</tspan>
+      <tspan style="font: 6.44px 'NanumBarunGothic'" x="96.602558" y="0.7281250000000004">2</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_28">
+    <!-- 원자료대로 화석 CO$_2$로 계산 -->
+    <g style="fill: #222222" transform="translate(802.8 343.409359)">
+     <text>
+      <tspan style="font: 8.3px 'NanumBarunGothic'" x="0 7.400803 14.801605 22.202408 29.60321 37.004013 38.862503 46.263306 53.664108 55.522598 60.824295 70.755344 78.156146 80.014636 87.415439" y="-0.53125">원자료대로 화석 CO로 계산</tspan>
+      <tspan style="font: 5.81px 'NanumBarunGothic'" x="67.142834" y="0.828125">2</tspan>
+     </text>
+    </g>
+    <text style="fill: #222222; font: 8.3px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(802.8 355.092712)">(생물기원 해석 시 −7.7%)</text>
+   </g>
+   <g id="text_29">
+    <text style="fill: #222222; font: 700 10px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="10.8" y="423.39" transform="rotate(-0 10.8 423.39)">계산 알고리즘 (④ 단계의 내용)</text>
+   </g>
+   <g id="text_30">
+    <text style="fill: #222222; font: 700 9.4px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="19.44" y="465.279906" transform="rotate(-0 19.44 465.279906)">A s = f  (공정별 활동량)</text>
+   </g>
+   <g id="text_31">
+    <text style="fill: #222222; font: 8.4px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(19.44 488.927063)">A: 공정 간 투입·산출 (2,729 × 2,729), f: 주전자 1대의 수요</text>
+    <text style="fill: #222222; font: 8.4px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(19.44 500.751178)">희소 LU 분해로 s를 구한다 (역행렬은 만들지 않음)</text>
+   </g>
+   <g id="text_32">
+    <text style="fill: #222222; font: 700 9.4px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="343.92" y="465.393" transform="rotate(-0 343.92 465.393)">g = B s  (배출 목록)</text>
+   </g>
+   <g id="text_33">
+    <text style="fill: #222222; font: 8.4px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(343.92 488.927063)">B: 공정별 배출·자원 사용 (4,944 × 2,729)</text>
+    <text style="fill: #222222; font: 8.4px 'NanumBarunGothic', 'DejaVu Sans'" transform="translate(343.92 500.933878)">g: 주전자 1대의 공급망 전체 배출량</text>
+   </g>
+   <g id="text_34">
+    <text style="fill: #222222; font: 700 9.4px 'NanumBarunGothic', 'DejaVu Sans'; text-anchor: start" x="668.4" y="465.354813" transform="rotate(-0 668.4 465.354813)">h = c g  (지구온난화 영향)</text>
+   </g>
+   <g id="text_35">
+    <!-- c: IPCC AR6 GWP100 계수 (CO$_2$ 1, CH$_4$ 29.8, N$_2$O 273) -->
+    <g style="fill: #222222" transform="translate(668.4 488.927063)">
+     <text>
+      <tspan style="font: 8.4px 'NanumBarunGothic'" x="0 4.111404 6.603409 8.48291 10.555389 15.47229 20.833893 26.195496 28.074997 33.478561 38.596848 43.488586 45.368088 51.325439 59.38884 64.30574 69.197479 74.089218 78.980957 80.860458 88.344894 95.82933 97.708832 101.45105 106.812653 116.856701 118.736203 123.627942 126.119946 127.999447 133.36105 143.119821 144.999322 149.891061 154.7828 157.274804 162.166543 164.658547 166.538049 176.229696 182.539449 184.418951 189.310689 194.202428 199.094167" y="-0.421875">c: IPCC AR6 GWP100 계수 (CO 1, CH 29.8, NO 273)</tspan>
+      <tspan style="font: 5.88px 'NanumBarunGothic'" x="113.202797 139.465916 172.575791" y="0.9562499999999998">242</tspan>
+     </text>
+    </g>
+    <!-- h: kg CO$_2$-eq/대 -->
+    <g style="fill: #222222" transform="translate(668.4 500.909138)">
+     <text>
+      <tspan style="font: 8.4px 'NanumBarunGothic'" x="0 4.967255 7.459259 9.33876 13.785797 18.719482 20.598984 25.960587 36.004635 40.896374 45.586728 50.520413 54.262631" y="-0.40625">h: kg CO-eq/대</tspan>
+      <tspan style="font: 5.88px 'NanumBarunGothic'" x="32.350731" y="0.9718749999999998">2</tspan>
+     </text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p6ed9ce7fd1">
+   <rect x="0" y="0" width="979.2" height="525.6"/>
+  </clipPath>
+ </defs>
+</svg>

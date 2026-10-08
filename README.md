@@ -6,6 +6,20 @@
 | 계산된 항목 합계 | **3.14 kg CO2-eq/대** (포장 포함 질량의 86.8% 반영, 미계산 항목은 0이 아님) |
 | 작성 범위 | README 필수 항목 1–5절과 1차 결과 현황. 6–10절은 다음 단계에서 작성한다. |
 
+## 요약
+
+**결과의 의미.** 주전자 1대를 공장 출하 시점까지 만드는 동안 공급망 전체에서 배출되는 온실가스를 CO2 환산량으로 합한 값이다. 현재 값(3.14 kg CO2-eq/대)은 USLCI에 데이터가 있는 6개 소재와 플라스틱 가공만 합한 부분값이며, 실제 총량은 이보다 크다.
+
+**산출 과정.**
+1. BOM의 소재별로 USLCI 공정 데이터셋을 찾아 연결한다.
+2. 그 공정이 사용하는 전기, 천연가스, 원유 등 상류 공정 2,511개를 연립방정식(A s = f)으로 한 번에 풀어, 주전자 1대에 필요한 각 공정의 활동량을 구한다.
+3. 활동량에 공정별 배출량을 곱해 CO2, CH4, N2O 배출 총량을 구한다(g = B s).
+4. IPCC AR6 계수로 CO2 환산량을 계산한다(h = c g).
+
+**결과를 좌우하는 요인.** 스테인리스강(46%)과 PP(35%)가 계산된 값의 81%를 차지한다. 판단 하나만 바꿔도 결과가 최대 20% 달라진다(스테인리스 스크랩 처리 방식).
+
+![작업 흐름, 계산 알고리즘, 판단 지점](figures/pass1/fig0_workflow_decisions.png)
+
 ## 1. Study identity and purpose (연구 개요)
 
 | 항목 | 내용 |
@@ -114,6 +128,8 @@
 bash data/external/uslci/fetch.sh Federal_LCA_Commons commons_merged data/external/uslci/commons_merged_jsonld.zip
 python scripts/run_pass1.py              # results/pass1/*.csv, summary.json
 python scripts/render_pass1_figures.py   # figures/pass1/*.svg, *.png
+python scripts/run_pass1_extras.py       # sensitivity.csv, gas_breakdown.csv
+python scripts/render_pass1_workflow.py  # figures/pass1/fig0, fig3
 python scripts/write_records.py          # mapping-decisions.csv, run-manifest.json
 ```
 
@@ -142,7 +158,20 @@ python scripts/write_records.py          # mapping-decisions.csv, run-manifest.j
 **결과 해석.**
 - 스테인리스강은 질량 비중이 21.6%(186 g)이지만 계산된 GWP의 46.1%를 차지한다. 이 중 0.637 kg(합계의 20.3%)은 스크랩 투입에 부과된 "value of scrap" 부담이다. 스크랩을 무부담(cut-off)으로 처리하면 스테인리스 기여는 약 0.81 kg으로 줄어든다.
 - PP는 질량 비중이 가장 크며(350.25 g, 40.7%) 기여는 35.1%이다. 이 중 사출 가공이 0.358 kg을 차지한다.
-- 골판지 공장 데이터셋에는 화석 CO2 흐름으로 두 건(골판지 원지 1 kg당 0.337 kg, 1.248 kg)이 기록되어 있다. 큰 쪽이 목질 연소 유래 생물기원 CO2라면 골판지 기여는 최대 약 0.18 kg 줄어든다. 데이터셋에 구분 정보가 없어 원자료대로 계산했다.
+- 골판지 원지 공장 데이터셋에는 화석 CO2 흐름으로 두 건(원지 1 kg당 0.337 kg, 1.248 kg)이 기록되어 있다. 큰 쪽이 목질 연소 유래 생물기원 CO2라면 결과는 0.242 kg(7.7%) 줄어든다. 이 중 약 0.18 kg은 주전자 포장 골판지, 나머지는 PP 사출 데이터셋에 포함된 부품 포장 골판지에서 나온다. 데이터셋에 구분 정보가 없어 원자료대로 계산했다.
+
+**판단별 민감도.** 판단 하나를 바꿨을 때의 결과다([sensitivity.csv](results/pass1/sensitivity.csv)). 계산 방식보다 데이터 해석에 관한 판단(스크랩 부담, 골판지 CO2)의 영향이 크다. 특성화 방법(AR5, Net Biogenic)에 따른 차이는 0.05% 이내다.
+
+![판단 하나를 바꿨을 때의 결과 변화](figures/pass1/fig3_decision_sensitivity.png)
+
+**온실가스 종류별 기여** ([gas_breakdown.csv](results/pass1/gas_breakdown.csv)).
+
+| 온실가스 | kg CO2-eq/대 | 비율 |
+|---|---|---|
+| CO2 (화석) | 2.836 | 90.3% |
+| CH4 | 0.263 | 8.4% |
+| N2O | 0.043 | 1.4% |
+| 기타 (할로카본, 대기 중 CO2 흡수 등) | −0.002 | −0.1% |
 
 **점검 결과.**
 

@@ -1,0 +1,7 @@
+scenario,description,gwp100_kg,difference_kg,difference_pct
+baseline,기준 결과 (pass 1),3.140264,0.000000,0.00
+scrap_cutoff,스테인리스 스크랩 무부담 (cut-off),2.503603,-0.636660,-20.27
+board_biogenic,골판지 공장 CO2 1.248 kg/kg를 생물기원으로 해석,2.898081,-0.242183,-7.71
+both,위 두 판단 동시 적용,2.261420,-0.878843,-27.99
+method_ar5,특성화 방법 IPCC AR5-100,3.140911,0.000647,0.02
+method_net_biogenic,특성화 범주 AR6-100 Net Biogenic,3.141898,0.001635,0.05

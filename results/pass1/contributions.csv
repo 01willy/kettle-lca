@@ -21,5 +21,6 @@ C07,LDPE packaging foil,conversion,0.0063,kg,sourced,0.0012514678966652271,0.001
 C08,Stainless steel,conversion,0.186,kg,pending,,,,,,
 C09,Brass and copper,conversion,0.03525,kg,pending,,,,,,
 C10,Silicone,conversion,0.012,kg,pending,,,,,,
+C11,Cardboard packaging,conversion,0.1315,kg,pending,,,,,,
 A01,Assembly,assembly,,kWh,pending,,,,,,
 T01,Inbound transport,transport,,t*km,pending,,,,,,

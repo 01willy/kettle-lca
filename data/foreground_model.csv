@@ -21,5 +21,6 @@ C07,LDPE packaging foil,conversion,0.0063,kg,BOM finished mass,USLCI (Commons Me
 C08,Stainless steel,conversion,0.186,kg,BOM finished mass,,,pending,Sheet forming (deep drawing) dataset not selected
 C09,Brass and copper,conversion,0.03525,kg,BOM finished mass,,,pending,Wire drawing and stamping not selected
 C10,Silicone,conversion,0.012,kg,BOM finished mass,,,pending,Silicone molding not selected
+C11,Cardboard packaging,conversion,0.1315,kg,BOM finished mass,,,pending,Box converting not verified as included in the corrugated product dataset
 A01,Assembly,assembly,,kWh,not in BOM,,,pending,Factory assembly electricity not specified in BOM; decision pending
 T01,Inbound transport,transport,,t*km,not in BOM,,,pending,Transport from material suppliers to the kettle factory; decision pending

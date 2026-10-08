@@ -23,7 +23,9 @@ for font_file in SPEC["style"].get("font_files", []):
 FS = SPEC["style"]["font_size_pt"]
 
 plt.rcParams.update({
-    "font.family": SPEC["style"]["font"],
+    "font.family": [SPEC["style"]["font"], "DejaVu Sans"],
+    "mathtext.fontset": "custom",
+    "mathtext.rm": SPEC["style"]["font"],
     "font.size": FS["tick"],
     "axes.titlesize": FS["title"],
     "axes.labelsize": FS["axis_label"],
@@ -93,8 +95,10 @@ def fig1(summary):
             ax_g.barh(i, mat, color=COL["material"], height=0.62)
             if conv:
                 ax_g.barh(i, conv, left=mat, color=COL["conversion"], height=0.62)
-            ax_g.text(mat + conv + 0.02, i, f"{mat + conv:.3f}", va="center", fontsize=FS["annotation"],
-                      color=COL["text"])
+            label = f"{mat + conv:.3f}"
+            if it["conversion_status"] in (None, "pending"):
+                label += " · 가공 미계산"
+            ax_g.text(mat + conv + 0.02, i, label, va="center", fontsize=FS["annotation"], color=COL["text"])
         else:
             conv = it["conversion"]
             note = "소재 미계산 (TianGong 매칭 대기)"
@@ -109,7 +113,7 @@ def fig1(summary):
     ax_m.set_xlabel("완제품 질량 (g/대)")
     ax_g.set_xlabel("GWP100 (kg CO$_2$-eq/대)")
     ax_m.set_xlim(420, 0)
-    ax_g.set_xlim(0, 1.75)
+    ax_g.set_xlim(0, 1.95)
     for ax in (ax_m, ax_g):
         ax.grid(axis="x", color=COL["grid"], linewidth=0.8)
         ax.set_axisbelow(True)
@@ -128,9 +132,9 @@ def fig1(summary):
                 fontsize=FS["annotation"])
     total = summary["gwp100_calculated_items_kg"]
     share = summary["checks"]["material_mass_share_covered"] * 100
-    fig.suptitle("항목별 질량과 GWP100 기여 (1차 계산, USLCI 기준)", x=0.08, ha="left", fontsize=FS["title"],
+    fig.suptitle("항목별 질량과 GWP100 기여 (1차 계산, USLCI 기준)", x=0.02, ha="left", fontsize=FS["title"],
                  fontweight="bold")
-    fig.text(0.08, 0.905,
+    fig.text(0.02, 0.905,
              f"계산된 항목 합계 {total:.2f} kg CO$_2$-eq/대 · 포장 포함 질량의 {share:.1f}% 반영 · "
              "점선 아래 6개 소재는 미계산이며 0이 아니다",
              fontsize=FS["annotation"], color="#444444")
